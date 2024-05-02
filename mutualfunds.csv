@@ -1,0 +1,853 @@
+Scheme Name,Scheme Type,Scheme Subtype,No. of Schemes,No. of Folios,Funds Mobilized (INR in crore),Repurchase/Redemption (INR in crore),Net Assets Under Management (INR in crore),Average Net Assets Under Management (INR in crore),No. of segregated portfolios created,Net Assets Under Management in segregated portfolio (INR in crores),Net Inflow or Outflow,Net Asset under Management per Scheme,Net Inflow or Outflow per Scheme,month and year
+Open ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Mar-22
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Mar-22
+Overnight Fund,Open ended Schemes,Income/Debt Oriented Schemes,30,560319,501715.35,514567.46,103071.33,125062.97,0,0,-12852.11,3435.711,-428.4036667,Mar-22
+Liquid Fund,Open ended Schemes,Income/Debt Oriented Schemes,37,1753074,311582.55,356186.27,345903.47,388477.17,0,0,-44603.72,9348.742432,-1205.505946,Mar-22
+Ultra Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,27,618499,21425.78,24265.91,87948.43,88587.9,0,0,-2840.13,3257.349259,-105.19,Mar-22
+Low Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,22,1054564,11027.48,19973.91,112744.67,114927.57,1,0,-8946.43,5124.757727,-406.6559091,Mar-22
+Money Market Fund,Open ended Schemes,Income/Debt Oriented Schemes,20,416283,32554.08,38040.78,114219.15,115135.63,0,0,-5486.7,5710.9575,-274.335,Mar-22
+Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,25,576126,3201.8,12256.71,115856.36,119659.34,0,0,-9054.91,4634.2544,-362.1964,Mar-22
+Medium Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,282861,386.94,1187.34,32983.46,33374.76,4,130.38,-800.4,2061.46625,-50.025,Mar-22
+Medium to Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,13,115666,68.87,1136.66,10054.53,10410.51,0,0,-1067.79,773.4253846,-82.13769231,Mar-22
+Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,2,24559,15.16,26.94,2523.49,2515.55,0,0,-11.78,1261.745,-5.89,Mar-22
+Dynamic Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,25,233672,319.84,1204.62,25312.04,25683.59,1,50,-884.78,1012.4816,-35.3912,Mar-22
+Corporate Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,21,661554,3576.45,15543.69,130073.36,132661.77,0,0,-11967.24,6193.969524,-569.8685714,Mar-22
+Credit Risk Fund,Open ended Schemes,Income/Debt Oriented Schemes,15,271688,213.28,611.85,27772.36,27852.85,4,66.25,-398.57,1851.490667,-26.57133333,Mar-22
+Banking and PSU Fund,Open ended Schemes,Income/Debt Oriented Schemes,22,331836,871.96,8869.64,93383.33,96623.55,0,0,-7997.68,4244.696818,-363.5309091,Mar-22
+Gilt Fund,Open ended Schemes,Income/Debt Oriented Schemes,21,178641,377.83,878.02,15222.25,15285.79,0,0,-500.19,724.8690476,-23.81857143,Mar-22
+Gilt Fund with 10 year constant duration,Open ended Schemes,Income/Debt Oriented Schemes,4,44766,17.08,90.38,1261.02,1271.55,0,0,-73.3,315.255,-18.325,Mar-22
+Floater Fund,Open ended Schemes,Income/Debt Oriented Schemes,12,262624,4946.3,12284.33,80631.81,80726.78,0,0,-7338.03,6719.3175,-611.5025,Mar-22
+Sub Total - I (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi+xii+xiii+xiv+xv+xvi),,,312,7386732,892300.76,1007124.53,1298961.06,1378257.27,10,246.63,-114823.77,4163.336731,-368.0249038,Mar-22
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Mar-22
+Multi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,14,3082531,10196.33,501.77,54932.24,50426.89,0,0,9694.56,3923.731429,692.4685714,Mar-22
+Large Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,31,12444858,5297.47,2245.23,226190.66,218707.39,0,0,3052.24,7296.472903,98.45935484,Mar-22
+Large & Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,27,6729990,4298.01,1133.34,110143.12,105287.34,0,0,3164.67,4079.374815,117.21,Mar-22
+Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,26,8705192,3721.3,1528.11,159928.02,154141.32,0,0,2193.19,6151.077692,84.35346154,Mar-22
+Small Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,24,7870459,2942.44,1246.81,106857.3,102992.22,0,0,1695.63,4452.3875,70.65125,Mar-22
+Dividend Yield Fund,Open ended Schemes,Growth/Equity Oriented Schemes,8,567533,159.02,109.21,9818.94,9614.67,0,0,49.81,1227.3675,6.22625,Mar-22
+Value Fund/Contra Fund,Open ended Schemes,Growth/Equity Oriented Schemes,22,4022810,1599.62,829.3,78773.52,76436.38,0,0,770.32,3580.614545,35.01454545,Mar-22
+Focused Fund,Open ended Schemes,Growth/Equity Oriented Schemes,26,5067076,3628.1,1317.71,96710.24,93514.99,0,0,2310.39,3719.624615,88.86115385,Mar-22
+Sectoral/Thematic Funds,Open ended Schemes,Growth/Equity Oriented Schemes,117,11894913,5224.1,4916.98,148830.47,144894.14,0,0,307.12,1272.055299,2.624957265,Mar-22
+ELSS,Open ended Schemes,Growth/Equity Oriented Schemes,39,13896408,4078.17,1401.82,147840.97,141776.43,0,0,2676.35,3790.794103,68.62435897,Mar-22
+Flexi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,31,11648458,5263.4,2714.18,225430.27,217926.75,0,0,2549.22,7271.944194,82.23290323,Mar-22
+Sub Total - II (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi),,,365,85930228,46407.97,17944.48,1365455.75,1315718.53,0,0,28463.49,3740.974658,77.98216438,Mar-22
+Hybrid Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Mar-22
+Conservative Hybrid Fund,Open ended Schemes,Hybrid Schemes,21,504505,664.72,390.67,21073.64,20693.74,1,0,274.05,1003.506667,13.05,Mar-22
+Balanced Hybrid Fund/Aggressive Hybrid Fund,Open ended Schemes,Hybrid Schemes,32,5050651,2813.48,1657.41,148518.7,145256.48,2,9.33,1156.07,4641.209375,36.1271875,Mar-22
+Dynamic Asset Allocation/Balanced Advantage Fund,Open ended Schemes,Hybrid Schemes,25,4245466,4082.97,2363.73,178862.65,176356.43,0,0,1719.24,7154.506,68.7696,Mar-22
+Multi Asset Allocation Fund,Open ended Schemes,Hybrid Schemes,10,795488,451.93,258.78,19582.47,20325.41,0,0,193.15,1958.247,19.315,Mar-22
+Arbitrage Fund,Open ended Schemes,Hybrid Schemes,25,499685,8226.57,15023.12,95216.57,110447.47,0,0,-6796.55,3808.6628,-271.862,Mar-22
+Equity Savings Fund,Open ended Schemes,Hybrid Schemes,22,354715,768.23,917.78,16664.06,16945.1,2,25.81,-149.55,757.4572727,-6.797727273,Mar-22
+Sub Total - III (i+ii+iii+iv+v+vi),,,135,11450510,17007.89,20611.5,479918.1,490024.63,5,35.14,-3603.61,3554.948889,-26.69340741,Mar-22
+Solution Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Mar-22
+Retirement Fund,Open ended Schemes,Solution Oriented Schemes,25,2684311,202.29,127.25,16405.53,16021.39,0,0,75.04,656.2212,3.0016,Mar-22
+Childrens Fund,Open ended Schemes,Solution Oriented Schemes,10,2894434,101.93,36.33,13131.23,12841.65,0,0,65.6,1313.123,6.56,Mar-22
+Sub Total - IV (i+ii),,,35,5578745,304.22,163.58,29536.76,28863.04,0,0,140.64,843.9074286,4.018285714,Mar-22
+Other Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Mar-22
+Index Funds,Open ended Schemes,Other Schemes,93,2469089,13767.07,1453.87,68675.74,58096.85,0,0,12313.2,738.4488172,132.4,Mar-22
+GOLD ETF,Open ended Schemes,Other Schemes,11,4241840,387.63,182.48,19280.89,19369.57,0,0,205.15,1752.808182,18.65,Mar-22
+Other ETFs,Open ended Schemes,Other Schemes,124,10541730,11996.46,5089.94,411362.41,397042.89,0,0,6906.52,3317.43879,55.69774194,Mar-22
+Fund of funds investing overseas,Open ended Schemes,Other Schemes,45,1254895,437.46,457.56,22609.18,21830.65,0,0,-20.1,502.4262222,-0.446666667,Mar-22
+Sub Total - V (i+ii+iii+iv),,,273,18507554,26588.61,7183.85,521928.23,496339.96,0,0,19404.76,1911.825018,71.07970696,Mar-22
+Total A-Open ended Schemes,,,1120,128853769,982609.45,1053027.93,3695799.89,3709203.43,15,281.77,-70418.48,3299.82133,-62.87364286,Mar-22
+Close Ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Mar-22
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Mar-22
+Fixed Term Plan,Close Ended Schemes,Income/Debt Oriented Schemes,296,190581,1364.45,566.5,48381.25,48657.62,0,0,797.95,163.4501689,2.695777027,Mar-22
+Capital Protection Oriented Schemes,Close Ended Schemes,Income/Debt Oriented Schemes,13,30736,0,0,1619.32,1610.48,0,0,0,124.5630769,0,Mar-22
+Infrastructure Debt Fund,Close Ended Schemes,Income/Debt Oriented Schemes,8,80,0,0,2002.7,1990.39,0,0,0,250.3375,0,Mar-22
+Other Debt Scheme,Close Ended Schemes,Income/Debt Oriented Schemes,1,717,0,0,60.14,59.68,0,0,0,60.14,0,Mar-22
+Sub Total (i+ii+iii+iv),,,318,222114,1364.45,566.5,52063.41,52318.16,0,0,797.95,163.7214151,2.50927673,Mar-22
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Mar-22
+ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,19,313073,0,63.73,3752.68,3665.55,0,0,-63.73,197.5094737,-3.354210526,Mar-22
+Other Equity Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,17,112646,0,147.39,4520.05,4556.09,0,0,-147.39,265.8852941,-8.67,Mar-22
+Sub Total (i+ii),,,36,425719,0,211.12,8272.73,8221.63,0,0,-211.12,229.7980556,-5.864444444,Mar-22
+Other Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,0,0,0,0,0,0,0,0,0,0,0,Mar-22
+Total B -Close ended Schemes,,,354,647833,1364.45,777.62,60336.14,60539.8,0,0,586.83,170.4410734,1.657711864,Mar-22
+Interval Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Mar-22
+Income/Debt Oriented Schemes,Interval Schemes,,21,3050,85.04,136.67,546.54,552.56,0,0,-51.63,26.02571429,-2.458571429,Mar-22
+Growth/Equity Oriented Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Mar-22
+Other Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Mar-22
+Total C Interval Schemes,,,21,3050,85.04,136.67,546.54,552.56,0,0,-51.63,26.02571429,-2.458571429,Mar-22
+Grand Total,,,1495,129504652,984058.94,1053942.21,3756682.57,3770295.79,15,281.77,-69883.27,2512.831151,-46.74466221,Mar-22
+Fund of Funds Scheme (Domestic) **,,,70,1728324,2170.63,850.21,48361.53,47088.98,0,0,1320.42,690.879,18.86314286,Mar-22
+Open ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Feb-22
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Feb-22
+Overnight Fund,Open ended Schemes,Income/Debt Oriented Schemes,31,524639,353798.08,352502.02,115555.27,127886.32,0,0,1296.06,3727.589355,41.8083871,Feb-22
+Liquid Fund,Open ended Schemes,Income/Debt Oriented Schemes,38,1794706,274396.15,234122.83,389305.48,400295.06,0,0,40273.32,10244.88105,1059.824211,Feb-22
+Ultra Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,27,623294,15430.26,16745.3,90436.56,92519.74,0,0,-1315.04,3349.502222,-48.70518519,Feb-22
+Low Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,23,1072630,7962.74,12944.28,121216.8,123862.89,2,0,-4981.54,5270.295652,-216.5886957,Feb-22
+Money Market Fund,Open ended Schemes,Income/Debt Oriented Schemes,20,420963,22508.52,23163.84,119233.31,118168.42,0,0,-655.32,5961.6655,-32.766,Feb-22
+Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,26,584821,1965.93,14057.81,124564.17,132256.96,0,0,-12091.88,4790.929615,-465.0723077,Feb-22
+Medium Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,283631,315.49,1377.36,33842.12,34173.99,3,318.93,-1061.87,2115.1325,-66.366875,Feb-22
+Medium to Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,13,116571,66.38,2973.52,11102.8,11908.73,0,0,-2907.14,854.0615385,-223.6261538,Feb-22
+Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,2,24765,6.27,64.44,2550,2535.41,0,0,-58.17,1275,-29.085,Feb-22
+Dynamic Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,26,236499,879.75,2585,26199.12,26276.22,1,122.32,-1705.25,1007.658462,-65.58653846,Feb-22
+Corporate Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,21,668061,2622.04,12840.78,141569.18,146846.4,0,0,-10218.74,6741.389524,-486.6066667,Feb-22
+Credit Risk Fund,Open ended Schemes,Income/Debt Oriented Schemes,15,273672,316.18,703.94,28051.63,28129.99,5,162.08,-387.76,1870.108667,-25.85066667,Feb-22
+Banking and PSU Fund,Open ended Schemes,Income/Debt Oriented Schemes,22,336854,1762.35,5416.48,101148.39,102912.23,0,0,-3654.13,4597.654091,-166.0968182,Feb-22
+Gilt Fund,Open ended Schemes,Income/Debt Oriented Schemes,21,180217,491.58,955.64,15691.38,15991.98,0,0,-464.06,747.2085714,-22.09809524,Feb-22
+Gilt Fund with 10 year constant duration,Open ended Schemes,Income/Debt Oriented Schemes,4,45533,23.35,43.16,1335.2,1344.57,0,0,-19.81,333.8,-4.9525,Feb-22
+Floater Fund,Open ended Schemes,Income/Debt Oriented Schemes,12,268620,3098.47,13421.44,87595.72,94053.74,0,0,-10322.97,7299.643333,-860.2475,Feb-22
+Sub Total - I (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi+xii+xiii+xiv+xv+xvi),,,317,7455476,685643.56,693917.85,1409397.14,1459162.66,11,603.33,-8274.29,4446.04776,-26.1018612,Feb-22
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Feb-22
+Multi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,14,2651738,1169.11,583.84,42784.36,43982.27,0,0,585.27,3056.025714,41.805,Feb-22
+Large Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,32,12313521,4472.82,2134.24,216794.5,221872.93,0,0,2338.58,6774.828125,73.080625,Feb-22
+Large & Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,27,6537977,2981.87,946.29,103409.11,105755.04,0,0,2035.58,3829.967037,75.39185185,Feb-22
+Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,27,8539929,3427.45,1473.13,152548.49,155730.28,0,0,1954.32,5649.944074,72.38222222,Feb-22
+Small Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,24,7648110,2746.25,1316.51,100406.66,103996.06,0,0,1429.74,4183.610833,59.5725,Feb-22
+Dividend Yield Fund,Open ended Schemes,Growth/Equity Oriented Schemes,8,561626,244.6,88.1,9421.98,9536.85,0,0,156.5,1177.7475,19.5625,Feb-22
+Value Fund/Contra Fund,Open ended Schemes,Growth/Equity Oriented Schemes,22,3989205,1492.86,655.82,75627,77609.63,0,0,837.04,3437.590909,38.04727273,Feb-22
+Focused Fund,Open ended Schemes,Growth/Equity Oriented Schemes,26,4933396,2879.08,923.53,92851.3,94308.05,0,0,1955.55,3571.203846,75.21346154,Feb-22
+Sectoral/Thematic Funds,Open ended Schemes,Growth/Equity Oriented Schemes,117,11682935,6255.25,2814.25,143324.6,145538.95,0,0,3441,1224.996581,29.41025641,Feb-22
+ELSS,Open ended Schemes,Growth/Equity Oriented Schemes,40,13540673,2175.39,1077.28,141035.59,144887.96,0,0,1098.11,3525.88975,27.45275,Feb-22
+Flexi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,31,11520089,5932.6,2059.03,216341.22,221329.59,0,0,3873.57,6978.749032,124.953871,Feb-22
+Sub Total - II (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi),,,368,83919199,33777.28,14072.01,1294544.8,1324547.6,0,0,19705.27,3517.784783,53.54692935,Feb-22
+Hybrid Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Feb-22
+Conservative Hybrid Fund,Open ended Schemes,Hybrid Schemes,21,500024,672.6,723.51,20600.27,20825.94,1,0,-50.91,980.9652381,-2.424285714,Feb-22
+Balanced Hybrid Fund/Aggressive Hybrid Fund,Open ended Schemes,Hybrid Schemes,33,5047228,3068.07,2157.95,144280.95,146840.97,2,9.33,910.12,4372.15,27.57939394,Feb-22
+Dynamic Asset Allocation/Balanced Advantage Fund,Open ended Schemes,Hybrid Schemes,26,4172282,4442.64,2324.65,173638.8,176087.94,0,0,2117.99,6678.415385,81.46115385,Feb-22
+Multi Asset Allocation Fund,Open ended Schemes,Hybrid Schemes,10,786721,452.27,247.69,18933.02,20254.77,0,0,204.58,1893.302,20.458,Feb-22
+Arbitrage Fund,Open ended Schemes,Hybrid Schemes,25,508631,7012.64,7348.55,101515.16,116408.23,0,0,-335.91,4060.6064,-13.4364,Feb-22
+Equity Savings Fund,Open ended Schemes,Hybrid Schemes,22,350778,996.6,665.54,16572.23,17109.25,2,25.81,331.06,753.2831818,15.04818182,Feb-22
+Sub Total - III (i+ii+iii+iv+v+vi),,,137,11365664,16644.82,13467.89,475540.42,497527.1,5,35.14,3176.93,3471.097956,23.18927007,Feb-22
+Solution Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Feb-22
+Retirement Fund,Open ended Schemes,Solution Oriented Schemes,25,2679439,194.51,86.78,15931.06,16232.4,0,0,107.73,637.2424,4.3092,Feb-22
+Childrens Fund,Open ended Schemes,Solution Oriented Schemes,10,2891704,95.03,37.8,12770.41,13009.95,0,0,57.23,1277.041,5.723,Feb-22
+Sub Total - IV (i+ii),,,35,5571143,289.55,124.58,28701.47,29242.35,0,0,164.97,820.042,4.713428571,Feb-22
+Other Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Feb-22
+Index Funds,Open ended Schemes,Other Schemes,78,2342493,6736.84,989.06,54737.46,52099.86,0,0,5747.78,701.7623077,73.68948718,Feb-22
+GOLD ETF,Open ended Schemes,Other Schemes,11,3774398,244.49,492.55,18727.93,18193.63,0,0,-248.06,1702.539091,-22.55090909,Feb-22
+Other ETFs,Open ended Schemes,Other Schemes,119,9785826,21531.24,10740.06,391436.12,391859.59,0,0,10791.18,3289.37916,90.68218487,Feb-22
+Fund of funds investing overseas,Open ended Schemes,Other Schemes,44,1244247,592.95,362.49,22072.04,22280.4,0,0,230.46,501.6372727,5.237727273,Feb-22
+Sub Total - V (i+ii+iii+iv),,,252,17146964,29105.52,12584.16,486973.55,484433.47,0,0,16521.36,1932.434722,65.56095238,Feb-22
+Total A-Open ended Schemes,,,1109,125458446,765460.73,734166.5,3695157.4,3794913.18,16,638.47,31294.23,3331.972408,28.218422,Feb-22
+Close Ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Feb-22
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Feb-22
+Fixed Term Plan,Close Ended Schemes,Income/Debt Oriented Schemes,289,187938,202.76,0.06,48296.49,48108.46,0,0,202.7,167.1158824,0.701384083,Feb-22
+Capital Protection Oriented Schemes,Close Ended Schemes,Income/Debt Oriented Schemes,13,30733,0,0,1610.69,1613.86,0,0,0,123.8992308,0,Feb-22
+Infrastructure Debt Fund,Close Ended Schemes,Income/Debt Oriented Schemes,8,80,0,0,1973.25,1964.39,0,0,0,246.65625,0,Feb-22
+Other Debt Scheme,Close Ended Schemes,Income/Debt Oriented Schemes,1,717,0,0,59.9,60.41,0,0,0,59.9,0,Feb-22
+Sub Total (i+ii+iii+iv),,,311,219468,202.76,0.06,51940.32,51747.12,0,0,202.7,167.0106752,0.651768489,Feb-22
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Feb-22
+ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,20,315996,0,37.5,3664.58,3787.58,0,0,-37.5,183.229,-1.875,Feb-22
+Other Equity Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,18,132558,0,22.91,4937.3,5124.21,0,0,-22.91,274.2944444,-1.272777778,Feb-22
+Sub Total (i+ii),,,38,448554,0,60.41,8601.88,8911.79,0,0,-60.41,226.3652632,-1.589736842,Feb-22
+Other Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,0,0,0,0,0,0,0,0,0,0,0,Feb-22
+Total B -Close ended Schemes,,,349,668022,202.76,60.47,60542.2,60658.9,0,0,142.29,173.4733524,0.407707736,Feb-22
+Interval Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Feb-22
+Income/Debt Oriented Schemes,Interval Schemes,,21,3081,103.97,6.97,596.37,567.64,0,0,97,28.39857143,4.619047619,Feb-22
+Growth/Equity Oriented Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Feb-22
+Other Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Feb-22
+Total C Interval Schemes,,,21,3081,103.97,6.97,596.37,567.64,0,0,97,28.39857143,4.619047619,Feb-22
+Grand Total,,,1479,126129549,765767.47,734233.94,3756295.96,3856139.72,16,638.47,31533.53,2539.753861,21.32084517,Feb-22
+Fund of Funds Scheme (Domestic) **,,,70,1717085,2116.03,792.82,46166.26,45916.73,0,0,1323.21,659.518,18.903,Feb-22
+Open ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jan-22
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jan-22
+Overnight Fund,Open ended Schemes,Income/Debt Oriented Schemes,31,510759,385699.36,366341.81,114032.31,111949.04,0,0,19357.55,3678.461613,624.4370968,Jan-22
+Liquid Fund,Open ended Schemes,Income/Debt Oriented Schemes,38,1802028,240703.19,255101.1,347955.35,389150.4,0,0,-14397.91,9156.719737,-378.8923684,Jan-22
+Ultra Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,27,629207,16366.6,13397.23,91471.79,92095,0,0,2969.37,3387.844074,109.9766667,Jan-22
+Low Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,23,1091088,19691.46,21654.94,125955.56,129829.33,3,15.12,-1963.48,5476.328696,-85.36869565,Jan-22
+Money Market Fund,Open ended Schemes,Income/Debt Oriented Schemes,20,427920,27384.41,22665.81,119521.25,120054.7,0,0,4718.6,5976.0625,235.93,Jan-22
+Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,26,594922,4531.5,7420.13,136221.97,138446.05,1,12.13,-2888.63,5239.306538,-111.1011538,Jan-22
+Medium Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,288806,244.09,991.98,34696.99,35000.72,5,321.08,-747.89,2168.561875,-46.743125,Jan-22
+Medium to Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,13,117657,544.69,572.03,13966.23,14105.67,1,0,-27.34,1074.325385,-2.103076923,Jan-22
+Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,2,25061,34.61,31.32,2556.11,2571.77,0,0,3.29,1278.055,1.645,Jan-22
+Dynamic Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,26,240279,264.15,742.04,27802.01,28128.37,2,122.32,-477.89,1069.308077,-18.38038462,Jan-22
+Corporate Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,21,679222,4710.34,5646.07,151204.32,150972.5,0,0,-935.73,7200.205714,-44.55857143,Jan-22
+Credit Risk Fund,Open ended Schemes,Income/Debt Oriented Schemes,15,275874,369.12,566.33,28281.35,28414.38,6,162.08,-197.21,1885.423333,-13.14733333,Jan-22
+Banking and PSU Fund,Open ended Schemes,Income/Debt Oriented Schemes,22,342606,4081.33,6618.54,104416.82,105285.8,0,0,-2537.21,4746.219091,-115.3277273,Jan-22
+Gilt Fund,Open ended Schemes,Income/Debt Oriented Schemes,21,182627,663.4,995.4,16114.74,16400,0,0,-332,767.3685714,-15.80952381,Jan-22
+Gilt Fund with 10 year constant duration,Open ended Schemes,Income/Debt Oriented Schemes,4,46480,27.26,74.7,1349.79,1377.91,0,0,-47.44,337.4475,-11.86,Jan-22
+Floater Fund,Open ended Schemes,Income/Debt Oriented Schemes,12,274724,10804.32,8212.78,97798.27,98448.12,0,0,2591.54,8149.855833,215.9616667,Jan-22
+Sub Total - I (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi+xii+xiii+xiv+xv+xvi),,,317,7529260,716119.83,711032.22,1413344.85,1462229.76,18,632.73,5087.61,4458.501104,16.0492429,Jan-22
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jan-22
+Multi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,14,2567227,1395.65,504.22,44515.64,43974.07,0,0,891.43,3179.688571,63.67357143,Jan-22
+Large Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,32,12156461,4515.43,2625.19,222736.62,226357.78,0,0,1890.24,6960.519375,59.07,Jan-22
+Large & Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,27,6393977,2877.3,1154.65,106993.67,107420.05,0,0,1722.65,3962.728519,63.80185185,Jan-22
+Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,27,8356221,3527.96,1757.94,158940.86,160754.78,0,0,1770.02,5886.698519,65.5562963,Jan-22
+Small Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,24,7364508,3163.62,1665.15,106373.64,107827.47,0,0,1498.47,4432.235,62.43625,Jan-22
+Dividend Yield Fund,Open ended Schemes,Growth/Equity Oriented Schemes,8,556184,172.13,111.98,9593.08,9728.23,0,0,60.15,1199.135,7.51875,Jan-22
+Value Fund/Contra Fund,Open ended Schemes,Growth/Equity Oriented Schemes,22,3957921,1218.83,1382.24,78514.39,79036.62,0,0,-163.41,3568.835909,-7.427727273,Jan-22
+Focused Fund,Open ended Schemes,Growth/Equity Oriented Schemes,26,4845840,2909.19,1095.76,94529.79,96392.27,0,0,1813.43,3635.761154,69.74730769,Jan-22
+Sectoral/Thematic Funds,Open ended Schemes,Growth/Equity Oriented Schemes,116,11437336,5758.88,3685.97,146129.47,147828.61,0,0,2072.91,1259.73681,17.86991379,Jan-22
+ELSS,Open ended Schemes,Growth/Equity Oriented Schemes,40,13348560,2290.62,1485.89,146927.66,150683.1,0,0,804.73,3673.1915,20.11825,Jan-22
+Flexi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,29,11291488,5404.61,2877.46,222709.69,226103.48,0,0,2527.15,7679.644483,87.14310345,Jan-22
+Sub Total - II (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi),,,365,82275723,33234.21,18346.45,1337964.51,1356106.47,0,0,14887.76,3665.656192,40.78838356,Jan-22
+Hybrid Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jan-22
+Conservative Hybrid Fund,Open ended Schemes,Hybrid Schemes,21,496665,1276.58,470.92,20781.47,20399.36,2,0,805.66,989.5938095,38.3647619,Jan-22
+Balanced Hybrid Fund/Aggressive Hybrid Fund,Open ended Schemes,Hybrid Schemes,33,5008192,3383.56,1843.76,146836.02,147809.61,2,9.33,1539.8,4449.576364,46.66060606,Jan-22
+Dynamic Asset Allocation/Balanced Advantage Fund,Open ended Schemes,Hybrid Schemes,26,4118163,5153.83,2390.88,173958.68,174985.91,0,0,2762.95,6690.718462,106.2673077,Jan-22
+Multi Asset Allocation Fund,Open ended Schemes,Hybrid Schemes,10,777800,499.65,304.8,19276.13,20032.19,0,0,194.85,1927.613,19.485,Jan-22
+Arbitrage Fund,Open ended Schemes,Hybrid Schemes,25,508149,7092.62,6137.64,101757.62,115463.75,0,0,954.98,4070.3048,38.1992,Jan-22
+Equity Savings Fund,Open ended Schemes,Hybrid Schemes,22,345178,955.31,983.76,16242.69,17002.58,2,25.81,-28.45,738.3040909,-1.293181818,Jan-22
+Sub Total - III (i+ii+iii+iv+v+vi),,,137,11254147,18361.55,12131.76,478852.6,495693.4,6,35.14,6229.79,3495.274453,45.47291971,Jan-22
+Solution Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jan-22
+Retirement Fund,Open ended Schemes,Solution Oriented Schemes,25,2673825,213.3,113.9,16415.7,16626.09,0,0,99.4,656.628,3.976,Jan-22
+Childrens Fund,Open ended Schemes,Solution Oriented Schemes,10,2888864,103.54,45.01,13156.61,13270.8,0,0,58.53,1315.661,5.853,Jan-22
+Sub Total - IV (i+ii),,,35,5562689,316.84,158.91,29572.32,29896.89,0,0,157.93,844.9234286,4.512285714,Jan-22
+Other Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jan-22
+Index Funds,Open ended Schemes,Other Schemes,68,2216086,5984.18,1069.75,49906.11,47510.56,0,0,4914.43,733.9133824,72.27102941,Jan-22
+GOLD ETF,Open ended Schemes,Other Schemes,11,3464739,166.02,617.71,17839.89,18183.61,0,0,-451.69,1621.808182,-41.06272727,Jan-22
+Other ETFs,Open ended Schemes,Other Schemes,117,8939164,12821.26,8812.23,390349.75,393879.83,0,0,4009.03,3336.32265,34.26521368,Jan-22
+Fund of funds investing overseas,Open ended Schemes,Other Schemes,41,1182926,804.28,415.07,22127.6,22698.78,0,0,389.21,539.697561,9.492926829,Jan-22
+Sub Total - V (i+ii+iii+iv),,,237,15802915,19775.74,10914.77,480223.35,482272.78,0,0,8860.97,2026.258861,37.38805907,Jan-22
+Total A-Open ended Schemes,,,1091,122424734,787808.16,752584.09,3739957.62,3826199.3,24,667.87,35224.07,3428.008818,32.28604033,Jan-22
+Close Ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jan-22
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jan-22
+Fixed Term Plan,Close Ended Schemes,Income/Debt Oriented Schemes,288,187638,227.1,0,47925.31,47744.74,0,0,227.1,166.4073264,0.788541667,Jan-22
+Capital Protection Oriented Schemes,Close Ended Schemes,Income/Debt Oriented Schemes,13,30733,0,0,1614.3,1617.38,0,0,0,124.1769231,0,Jan-22
+Infrastructure Debt Fund,Close Ended Schemes,Income/Debt Oriented Schemes,8,80,0,0,1940.94,1935.22,0,0,0,242.6175,0,Jan-22
+Other Debt Scheme,Close Ended Schemes,Income/Debt Oriented Schemes,1,717,0,0,60.76,61.06,0,0,0,60.76,0,Jan-22
+Sub Total (i+ii+iii+iv),,,310,219168,227.1,0,51541.31,51358.39,0,0,227.1,166.2622903,0.732580645,Jan-22
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jan-22
+ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,20,317426,0,36.43,3855.45,3952.68,0,0,-36.43,192.7725,-1.8215,Jan-22
+Other Equity Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,19,137246,0,298.99,5384.77,6578.28,0,0,-298.99,283.4089474,-15.73631579,Jan-22
+Sub Total (i+ii),,,39,454672,0,335.41,9240.22,10530.96,0,0,-335.41,236.9287179,-8.60025641,Jan-22
+Other Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,0,0,0,0,0,0,0,0,0,0,0,Jan-22
+Total B -Close ended Schemes,,,349,673840,227.1,335.41,60781.52,61889.35,0,0,-108.31,174.1590831,-0.31034384,Jan-22
+Interval Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jan-22
+Income/Debt Oriented Schemes,Interval Schemes,,21,3099,136.53,0.61,470.48,482.13,0,0,135.92,22.40380952,6.472380952,Jan-22
+Growth/Equity Oriented Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Jan-22
+Other Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Jan-22
+Total C Interval Schemes,,,21,3099,136.53,0.61,470.48,482.13,0,0,135.92,22.40380952,6.472380952,Jan-22
+Grand Total,,,1461,123101673,788171.79,752920.12,3801209.63,3888570.79,24,667.87,35251.67,2601.786194,24.12845311,Jan-22
+Fund of Funds Scheme (Domestic) **,,,66,1647213,2501.79,676.64,44836.59,44331.59,0,0,1825.15,679.3422727,27.65378788,Jan-22
+Open ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Dec-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Dec-21
+Overnight Fund,Open ended Schemes,Income/Debt Oriented Schemes,30,307669,453336.11,448605.13,94138.69,110033.81,0,0,4730.98,3137.956333,157.6993333,Dec-21
+Liquid Fund,Open ended Schemes,Income/Debt Oriented Schemes,38,2008348,297331.83,306016.83,361368.52,364938.09,0,0,-8685,9509.697895,-228.5526316,Dec-21
+Ultra Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,27,634934,17892.33,26206.97,88197.72,93776.42,0,0,-8314.64,3266.582222,-307.9496296,Dec-21
+Low Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,23,1107690,12169.77,23216.73,127483.98,131558.92,2,14.93,-11046.96,5542.781739,-480.3026087,Dec-21
+Money Market Fund,Open ended Schemes,Income/Debt Oriented Schemes,20,432609,26743.67,33772.24,114413.94,117975.78,0,0,-7028.57,5720.697,-351.4285,Dec-21
+Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,26,608859,8310.72,10343.16,138922.13,140576.3,1,11.97,-2032.44,5343.158846,-78.17076923,Dec-21
+Medium Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,294246,625.41,1185.36,35389.95,35636.67,6,328.55,-559.95,2211.871875,-34.996875,Dec-21
+Medium to Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,13,119032,740.04,805.77,14050.05,14049.7,1,16.71,-65.73,1080.773077,-5.056153846,Dec-21
+Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,2,25400,14.44,22,2591.56,2610.24,0,0,-7.56,1295.78,-3.78,Dec-21
+Dynamic Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,26,244904,1630.89,591.64,28328.08,27967.62,2,129.11,1039.25,1089.541538,39.97115385,Dec-21
+Corporate Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,21,692249,3734.49,8040.09,151915.81,154251.54,0,0,-4305.6,7234.08619,-205.0285714,Dec-21
+Credit Risk Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,279738,410.72,457.93,28365.22,28384.7,8,233.27,-47.21,1772.82625,-2.950625,Dec-21
+Banking and PSU Fund,Open ended Schemes,Income/Debt Oriented Schemes,22,349368,1375.49,7592.62,106915.11,110885.77,0,0,-6217.13,4859.777727,-282.5968182,Dec-21
+Gilt Fund,Open ended Schemes,Income/Debt Oriented Schemes,21,186979,384.15,421.88,16488.19,16588.79,0,0,-37.73,785.1519048,-1.796666667,Dec-21
+Gilt Fund with 10 year constant duration,Open ended Schemes,Income/Debt Oriented Schemes,4,47962,55.59,54.66,1409.1,1406.14,0,0,0.93,352.275,0.2325,Dec-21
+Floater Fund,Open ended Schemes,Income/Debt Oriented Schemes,12,281881,5553.54,12013.73,94865.99,98242.28,0,0,-6460.19,7905.499167,-538.3491667,Dec-21
+Sub Total - I (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi+xii+xiii+xiv+xv+xvi),,,317,7621868,830309.21,879346.72,1404844.02,1448882.79,20,734.54,-49037.51,4431.684606,-154.6924606,Dec-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Dec-21
+Multi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,14,2442973,10926.7,350.19,42860,38068.35,0,0,10576.51,3061.428571,755.465,Dec-21
+Large Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,32,11978081,4385.36,2857.53,221834.82,218002.67,0,0,1527.83,6932.338125,47.7446875,Dec-21
+Large & Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,27,6105449,2718.23,1071.9,104376.32,102238.56,0,0,1646.33,3865.78963,60.97518519,Dec-21
+Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,27,8165660,3413.38,1734.13,158135.64,155442.8,0,0,1679.25,5856.875556,62.19444444,Dec-21
+Small Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,24,7035809,2800.33,1776.04,105880.34,102632.53,0,0,1024.29,4411.680833,42.67875,Dec-21
+Dividend Yield Fund,Open ended Schemes,Growth/Equity Oriented Schemes,8,552391,158.47,117.67,9659.98,9478.22,0,0,40.8,1207.4975,5.1,Dec-21
+Value Fund/Contra Fund,Open ended Schemes,Growth/Equity Oriented Schemes,22,3934965,1131.03,801.14,77274.13,76018.43,0,0,329.89,3512.460455,14.995,Dec-21
+Focused Fund,Open ended Schemes,Growth/Equity Oriented Schemes,26,4738365,2659.67,1147.44,95285.14,94760.23,0,0,1512.23,3664.813077,58.16269231,Dec-21
+Sectoral/Thematic Funds,Open ended Schemes,Growth/Equity Oriented Schemes,117,11023820,7573.25,3803.49,146657.68,143842.91,0,0,3769.76,1253.484444,32.22017094,Dec-21
+ELSS,Open ended Schemes,Growth/Equity Oriented Schemes,41,13244120,1893.33,1326.29,149336.16,147576.53,0,0,567.04,3642.345366,13.8302439,Dec-21
+Flexi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,28,10985374,5145.26,2736.62,222318.67,218322.51,0,0,2408.64,7939.9525,86.02285714,Dec-21
+Sub Total - II (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi),,,366,80207007,42805,17722.45,1333618.89,1306383.74,0,0,25082.55,3643.767459,68.53155738,Dec-21
+Hybrid Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Dec-21
+Conservative Hybrid Fund,Open ended Schemes,Hybrid Schemes,21,491232,730.96,426.14,19977.85,19437.34,2,46.18,304.82,951.3261905,14.5152381,Dec-21
+Balanced Hybrid Fund/Aggressive Hybrid Fund,Open ended Schemes,Hybrid Schemes,33,4958969,2547.75,2042.39,145170.69,143947.13,2,9.33,505.36,4399.111818,15.31393939,Dec-21
+Dynamic Asset Allocation/Balanced Advantage Fund,Open ended Schemes,Hybrid Schemes,26,4052345,6074.7,2369.06,169739.59,169340.53,0,0,3705.64,6528.445769,142.5246154,Dec-21
+Multi Asset Allocation Fund,Open ended Schemes,Hybrid Schemes,10,768343,471,353.47,18586.45,19351.94,0,0,117.53,1858.645,11.753,Dec-21
+Arbitrage Fund,Open ended Schemes,Hybrid Schemes,25,508695,7096.21,11398.17,100777.38,115928.81,0,0,-4301.96,4031.0952,-172.0784,Dec-21
+Equity Savings Fund,Open ended Schemes,Hybrid Schemes,22,338872,968.85,736.85,16188.27,16764.98,2,25.81,232,735.8304545,10.54545455,Dec-21
+Sub Total - III (i+ii+iii+iv+v+vi),,,137,11118456,17889.48,17326.09,470440.23,484770.73,6,81.32,563.39,3433.870292,4.112335766,Dec-21
+Solution Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Dec-21
+Retirement Fund,Open ended Schemes,Solution Oriented Schemes,25,2666506,207.49,111.07,16444.2,16278.56,0,0,96.42,657.768,3.8568,Dec-21
+Childrens Fund,Open ended Schemes,Solution Oriented Schemes,10,2885806,103.58,49.25,13090.88,12985.81,0,0,54.33,1309.088,5.433,Dec-21
+Sub Total - IV (i+ii),,,35,5552312,311.07,160.32,29535.08,29264.37,0,0,150.75,843.8594286,4.307142857,Dec-21
+Other Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Dec-21
+Index Funds,Open ended Schemes,Other Schemes,62,2053599,5288.97,773.39,45429.96,42879.31,0,0,4515.58,732.7412903,72.83193548,Dec-21
+GOLD ETF,Open ended Schemes,Other Schemes,11,3209311,489.98,176.63,18405.31,18115.34,0,0,313.35,1673.21,28.48636364,Dec-21
+Other ETFs,Open ended Schemes,Other Schemes,111,8554194,16334.17,2783.41,384214.16,375358.25,0,0,13550.76,3461.388829,122.0789189,Dec-21
+Fund of funds investing overseas,Open ended Schemes,Other Schemes,41,1178048,823.81,497.79,24129.75,23994.19,0,0,326.02,588.5304878,7.951707317,Dec-21
+Sub Total - V (i+ii+iii+iv),,,225,14995152,22936.93,4231.22,472179.19,460347.09,0,0,18705.71,2098.574178,83.13648889,Dec-21
+Total A-Open ended Schemes,,,1080,119494795,914251.69,918786.81,3710617.41,3729648.72,26,815.86,-4535.12,3435.756861,-4.199185185,Dec-21
+Close Ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Dec-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Dec-21
+Fixed Term Plan,Close Ended Schemes,Income/Debt Oriented Schemes,286,186553,449.67,269.3,47484.86,47732.94,0,0,180.37,166.030979,0.630664336,Dec-21
+Capital Protection Oriented Schemes,Close Ended Schemes,Income/Debt Oriented Schemes,13,30733,0,0,1611.54,1608.2,0,0,0,123.9646154,0,Dec-21
+Infrastructure Debt Fund,Close Ended Schemes,Income/Debt Oriented Schemes,8,80,0,0,1927.31,1913.69,0,0,0,240.91375,0,Dec-21
+Other Debt Scheme,Close Ended Schemes,Income/Debt Oriented Schemes,1,718,0,0,60.89,60.74,0,0,0,60.89,0,Dec-21
+Sub Total (i+ii+iii+iv),,,308,218084,449.67,269.3,51084.61,51315.57,0,0,180.37,165.8591234,0.585616883,Dec-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Dec-21
+ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,20,319113,0,33.04,3921.54,3873.46,0,0,-33.04,196.077,-1.652,Dec-21
+Other Equity Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,22,171471,0,54.1,6742.64,6657.88,0,0,-54.1,306.4836364,-2.459090909,Dec-21
+Sub Total (i+ii),,,42,490584,0,87.14,10664.18,10531.34,0,0,-87.14,253.9090476,-2.074761905,Dec-21
+Other Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,0,0,0,0,0,0,0,0,0,0,0,Dec-21
+Total B -Close ended Schemes,,,350,708668,449.67,356.44,61748.79,61846.91,0,0,93.23,176.4251143,0.266371429,Dec-21
+Interval Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Dec-21
+Income/Debt Oriented Schemes,Interval Schemes,,21,3113,231.56,1.45,330.12,315.29,0,0,230.11,15.72,10.95761905,Dec-21
+Growth/Equity Oriented Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Dec-21
+Other Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Dec-21
+Total C Interval Schemes,,,21,3113,231.56,1.45,330.12,315.29,0,0,230.11,15.72,10.95761905,Dec-21
+Grand Total,,,1451,120206576,914932.91,919144.69,3772696.31,3791810.92,26,815.86,-4211.78,2600.066375,-2.902674018,Dec-21
+Fund of Funds Scheme (Domestic) **,,,64,1596388,1978.03,675.75,43614.17,42900.29,0,0,1302.28,681.4714063,20.348125,Dec-21
+Open ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Nov-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Nov-21
+Overnight Fund,Open ended Schemes,Income/Debt Oriented Schemes,30,302779,379809.55,391933.01,89093.71,115724.67,0,0,-12123.46,2969.790333,-404.1153333,Nov-21
+Liquid Fund,Open ended Schemes,Income/Debt Oriented Schemes,39,1942065,277564.82,224313.54,369014.99,368710.82,0,0,53251.28,9461.922821,1365.417436,Nov-21
+Ultra Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,28,642763,16634.28,21204.98,96333.3,98622.56,0,0,-4570.7,3440.475,-163.2392857,Nov-21
+Low Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,24,1125302,15025.78,21699.98,138356.25,141711.03,2,14.64,-6674.2,5764.84375,-278.0916667,Nov-21
+Money Market Fund,Open ended Schemes,Income/Debt Oriented Schemes,20,437205,24928.71,25423.13,121079.43,120303.28,0,0,-494.42,6053.9715,-24.721,Nov-21
+Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,27,620008,7139.11,6653.28,141278.17,140233.86,1,11.74,485.83,5232.524815,17.9937037,Nov-21
+Medium Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,297730,1211.18,1739.72,35919.55,36316.73,6,328.44,-528.54,2244.971875,-33.03375,Nov-21
+Medium to Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,13,120097,1054.88,153.92,14141.05,13678.61,1,16.56,900.96,1087.773077,69.30461538,Nov-21
+Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,2,25703,23.26,18.69,2618.95,2598.74,0,0,4.57,1309.475,2.285,Nov-21
+Dynamic Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,26,247463,858.58,1620.45,27318.33,27980.91,2,129.05,-761.87,1050.705,-29.30269231,Nov-21
+Corporate Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,20,697848,3454.93,8048.36,156155.08,158221.64,0,0,-4593.43,7807.754,-229.6715,Nov-21
+Credit Risk Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,281760,637.04,385.86,28356.03,28108.76,8,232.65,251.18,1772.251875,15.69875,Nov-21
+Banking and PSU Fund,Open ended Schemes,Income/Debt Oriented Schemes,22,355192,1493.84,5687.17,113169.43,115356.52,0,0,-4193.33,5144.065,-190.6059091,Nov-21
+Gilt Fund,Open ended Schemes,Income/Debt Oriented Schemes,21,189553,639.45,1504.82,16576.97,16931.26,0,0,-865.37,789.3795238,-41.20809524,Nov-21
+Gilt Fund with 10 year constant duration,Open ended Schemes,Income/Debt Oriented Schemes,4,48748,62.27,88.5,1415,1411.52,0,0,-26.23,353.75,-6.5575,Nov-21
+Floater Fund,Open ended Schemes,Income/Debt Oriented Schemes,12,285575,5569.18,10738.38,101222.07,105280.92,0,0,-5169.2,8435.1725,-430.7666667,Nov-21
+Sub Total - I (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi+xii+xiii+xiv+xv+xvi),,,320,7619791,736106.87,721213.78,1452048.31,1491191.84,20,733.08,14893.09,4537.650969,46.54090625,Nov-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Nov-21
+Multi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,12,1938528,771.84,424.22,31543.38,32835.42,0,0,347.62,2628.615,28.96833333,Nov-21
+Large Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,33,11740508,4352.16,2727.76,214414.3,223295.22,0,0,1624.4,6497.40303,49.22424242,Nov-21
+Large & Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,28,5976466,2473.54,1248.13,100135.1,103449.44,0,0,1225.41,3576.253571,43.76464286,Nov-21
+Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,28,8014405,3256.08,1976.32,152893.94,158045.33,0,0,1279.76,5460.497857,45.70571429,Nov-21
+Small Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,25,6849028,2347.49,1565.84,100479.09,102358.11,0,0,781.65,4019.1636,31.266,Nov-21
+Dividend Yield Fund,Open ended Schemes,Growth/Equity Oriented Schemes,8,549717,157.83,103.9,9292.34,9617.7,0,0,53.93,1161.5425,6.74125,Nov-21
+Value Fund/Contra Fund,Open ended Schemes,Growth/Equity Oriented Schemes,22,3918225,1361.2,922.61,74754.96,77770.96,0,0,438.59,3397.952727,19.93590909,Nov-21
+Focused Fund,Open ended Schemes,Growth/Equity Oriented Schemes,27,4738982,2625.03,1118.37,94285.45,96499.97,0,0,1506.66,3492.053704,55.80222222,Nov-21
+Sectoral/Thematic Funds,Open ended Schemes,Growth/Equity Oriented Schemes,114,10587595,4781.64,3259.33,139553.87,143107.47,0,0,1522.31,1224.156754,13.35359649,Nov-21
+ELSS,Open ended Schemes,Growth/Equity Oriented Schemes,42,13113916,1555.28,1380.99,146246.63,151995.93,0,0,174.29,3482.062619,4.149761905,Nov-21
+Flexi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,28,10745464,5408.63,2748.53,214649.76,221727.77,0,0,2660.1,7666.062857,95.00357143,Nov-21
+Sub Total - II (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi),,,367,78172834,29090.72,17475.99,1278248.8,1320703.31,0,0,11614.73,3482.966757,31.64776567,Nov-21
+Hybrid Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Nov-21
+Conservative Hybrid Fund,Open ended Schemes,Hybrid Schemes,21,476918,862.26,348.43,19118.23,19028.45,2,45.78,513.83,910.3919048,24.46809524,Nov-21
+Balanced Hybrid Fund/Aggressive Hybrid Fund,Open ended Schemes,Hybrid Schemes,34,4923718,2694.11,2045.77,142499.91,146596.35,2,9.33,648.34,4191.173824,19.06882353,Nov-21
+Dynamic Asset Allocation/Balanced Advantage Fund,Open ended Schemes,Hybrid Schemes,26,3954388,8267.81,2173.78,164657.92,167724.03,0,0,6094.03,6332.996923,234.3857692,Nov-21
+Multi Asset Allocation Fund,Open ended Schemes,Hybrid Schemes,10,761713,579.21,327.99,18296.31,19676.24,0,0,251.22,1829.631,25.122,Nov-21
+Arbitrage Fund,Open ended Schemes,Hybrid Schemes,26,505671,7883.31,6838.09,104943.51,118373.86,0,0,1045.22,4036.288846,40.20076923,Nov-21
+Equity Savings Fund,Open ended Schemes,Hybrid Schemes,23,333416,1636.74,767.35,15834.64,16423.21,2,25.81,869.39,688.4626087,37.79956522,Nov-21
+Sub Total - III (i+ii+iii+iv+v+vi),,,140,10955824,21923.45,12501.41,465350.52,487822.14,6,80.92,9422.04,3323.932286,67.30028571,Nov-21
+Solution Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Nov-21
+Retirement Fund,Open ended Schemes,Solution Oriented Schemes,25,2661411,205.16,122.27,16156.28,16520.05,0,0,82.89,646.2512,3.3156,Nov-21
+Childrens Fund,Open ended Schemes,Solution Oriented Schemes,10,2882784,110.09,52.41,12894.45,13134.39,0,0,57.68,1289.445,5.768,Nov-21
+Sub Total - IV (i+ii),,,35,5544195,315.26,174.68,29050.73,29654.44,0,0,140.58,830.0208571,4.016571429,Nov-21
+Other Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Nov-21
+Index Funds,Open ended Schemes,Other Schemes,59,1936229,4113.19,592.48,40240.13,39557.96,0,0,3520.71,682.0361017,59.67305085,Nov-21
+GOLD ETF,Open ended Schemes,Other Schemes,11,2929383,701.68,19.18,18104.07,17665.8,0,0,682.5,1645.824545,62.04545455,Nov-21
+Other ETFs,Open ended Schemes,Other Schemes,105,7940454,9427.95,2945.18,364744.82,372203.88,0,0,6482.77,3473.76019,61.74066667,Nov-21
+Fund of funds investing overseas,Open ended Schemes,Other Schemes,41,1165835,773.44,435.19,24189.44,24378.55,0,0,338.25,589.9863415,8.25,Nov-21
+Sub Total - V (i+ii+iii+iv),,,216,13971901,15016.26,3992.03,447278.45,453806.2,0,0,11024.23,2070.733565,51.03810185,Nov-21
+Total A-Open ended Schemes,,,1078,116264545,802452.55,755357.89,3671976.81,3783177.93,26,814,47094.66,3406.286466,43.68706865,Nov-21
+Close Ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Nov-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Nov-21
+Fixed Term Plan,Close Ended Schemes,Income/Debt Oriented Schemes,287,196326,796.99,790.01,47509.88,47127.68,0,0,6.98,165.5396516,0.024320557,Nov-21
+Capital Protection Oriented Schemes,Close Ended Schemes,Income/Debt Oriented Schemes,13,30747,0,0.01,1604.49,1612.54,0,0,-0.01,123.4223077,-0.000769231,Nov-21
+Infrastructure Debt Fund,Close Ended Schemes,Income/Debt Oriented Schemes,8,80,0,0,1903.09,1897.71,0,0,0,237.88625,0,Nov-21
+Other Debt Scheme,Close Ended Schemes,Income/Debt Oriented Schemes,1,718,0,0,60.7,61.22,0,0,0,60.7,0,Nov-21
+Sub Total (i+ii+iii+iv),,,309,227871,796.99,790.02,51078.16,50699.15,0,0,6.97,165.3014887,0.022556634,Nov-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Nov-21
+ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,20,320824,0,57.73,3854.75,4015.51,0,0,-57.73,192.7375,-2.8865,Nov-21
+Other Equity Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,24,175136,0,870.23,6669.89,7349.38,0,0,-870.23,277.9120833,-36.25958333,Nov-21
+Sub Total (i+ii),,,44,495960,0,927.96,10524.63,11364.88,0,0,-927.96,239.1961364,-21.09,Nov-21
+Other Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,0,0,0,0,0,0,0,0,0,0,0,Nov-21
+Total B -Close ended Schemes,,,353,723831,796.99,1717.98,61602.79,62064.03,0,0,-920.99,174.512153,-2.609036827,Nov-21
+Interval Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Nov-21
+Income/Debt Oriented Schemes,Interval Schemes,,21,3113,0.04,8.56,122.22,135.63,0,0,-8.52,5.82,-0.405714286,Nov-21
+Growth/Equity Oriented Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Nov-21
+Other Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Nov-21
+Total C Interval Schemes,,,21,3113,0.04,8.56,122.22,135.63,0,0,-8.52,5.82,-0.405714286,Nov-21
+Grand Total,,,1452,116991489,803249.58,757084.42,3733701.82,3845377.59,26,814,46165.16,2571.419986,31.79418733,Nov-21
+Fund of Funds Scheme (Domestic) **,,,61,1544400,1807.91,587.08,42215.51,41893.9,0,0,1220.83,692.057541,20.01360656,Nov-21
+Open ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Oct-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Oct-21
+Overnight Fund,Open ended Schemes,Income/Debt Oriented Schemes,30,155086,363791.08,357453.8,100904.67,115746.95,0,0,6337.28,3363.489,211.2426667,Oct-21
+Liquid Fund,Open ended Schemes,Income/Debt Oriented Schemes,39,2101380,202192.86,212392.41,314547.86,354763.69,0,0,-10199.55,8065.329744,-261.5269231,Oct-21
+Ultra Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,28,648545,21113.48,16601.7,100567.22,101390.9,0,0,4511.78,3591.686429,161.135,Oct-21
+Low Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,24,1142706,22695.96,18493,144604.65,144950.35,2,14.72,4202.96,6025.19375,175.1233333,Oct-21
+Money Market Fund,Open ended Schemes,Income/Debt Oriented Schemes,20,443647,33325.11,29555.73,121141.41,125438.83,0,0,3769.38,6057.0705,188.469,Oct-21
+Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,27,630028,6912.38,9578.78,140166.21,141828.93,1,11.81,-2666.4,5191.341111,-98.75555556,Oct-21
+Medium Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,300864,2067.24,756.22,36251.15,35168.46,6,328.38,1311.02,2265.696875,81.93875,Oct-21
+Medium to Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,13,120956,561.46,165.03,13138.11,12801.98,1,16.41,396.43,1010.623846,30.49461538,Oct-21
+Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,2,25952,17.63,42.74,2569.58,2584.52,0,0,-25.11,1284.79,-12.555,Oct-21
+Dynamic Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,26,249519,2364.86,552.96,27888.11,26753.04,2,128.99,1811.9,1072.619615,69.68846154,Oct-21
+Corporate Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,20,709055,4198.42,5073.5,159919.56,160854.73,0,0,-875.08,7995.978,-43.754,Oct-21
+Credit Risk Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,283711,743.89,535.7,27939.69,27873.92,8,232.01,208.19,1746.230625,13.011875,Oct-21
+Banking and PSU Fund,Open ended Schemes,Income/Debt Oriented Schemes,22,361198,4943.11,6194.71,116866.47,117461.77,0,0,-1251.6,5312.112273,-56.89090909,Oct-21
+Gilt Fund,Open ended Schemes,Income/Debt Oriented Schemes,21,191684,628.41,215.56,17311.65,17093.81,0,0,412.85,824.3642857,19.65952381,Oct-21
+Gilt Fund with 10 year constant duration,Open ended Schemes,Income/Debt Oriented Schemes,4,49627,40.9,50.31,1426.11,1435.13,0,0,-9.41,356.5275,-2.3525,Oct-21
+Floater Fund,Open ended Schemes,Income/Debt Oriented Schemes,12,285543,12606.02,7556.27,106087.63,103340.11,0,0,5049.75,8840.635833,420.8125,Oct-21
+Sub Total - I (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi+xii+xiii+xiv+xv+xvi),,,320,7699501,678202.8,665218.42,1431330.07,1489487.12,20,732.32,12984.38,4472.906469,40.5761875,Oct-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Oct-21
+Multi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,12,1892842,826.46,488.04,31927.04,32348.73,0,0,338.42,2660.586667,28.20166667,Oct-21
+Large Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,33,11565388,4180.63,3433.49,220879.43,223844.99,0,0,747.14,6693.316061,22.64060606,Oct-21
+Large & Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,28,5831175,2475.23,1831.86,101474.84,102650.34,0,0,643.37,3624.101429,22.9775,Oct-21
+Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,28,7843247,3130.78,2754.59,154580.99,157054.21,0,0,376.19,5520.749643,13.43535714,Oct-21
+Small Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,25,6637474,2755.98,2406.99,98969.34,100833.78,0,0,348.99,3958.7736,13.9596,Oct-21
+Dividend Yield Fund,Open ended Schemes,Growth/Equity Oriented Schemes,8,547031,147.13,101.48,9473.47,9663.33,0,0,45.65,1184.18375,5.70625,Oct-21
+Value Fund/Contra Fund,Open ended Schemes,Growth/Equity Oriented Schemes,21,3891239,973.9,1323.04,76957.25,78261.74,0,0,-349.14,3664.630952,-16.62571429,Oct-21
+Focused Fund,Open ended Schemes,Growth/Equity Oriented Schemes,27,4631938,2319.16,1622.8,94260.1,94700.51,0,0,696.36,3491.114815,25.79111111,Oct-21
+Sectoral/Thematic Funds,Open ended Schemes,Growth/Equity Oriented Schemes,112,10221831,5458.65,3724.67,139307.59,140209.12,0,0,1733.98,1243.817768,15.48196429,Oct-21
+ELSS,Open ended Schemes,Growth/Equity Oriented Schemes,42,13026585,1397.22,1885.33,150175.38,152610.8,0,0,-488.11,3575.604286,-11.62166667,Oct-21
+Flexi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,28,10470325,5006.25,3884.22,218554.01,220804.72,0,0,1122.03,7805.500357,40.0725,Oct-21
+Sub Total - II (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi),,,364,76559075,28671.39,23456.52,1296559.44,1312982.27,0,0,5214.87,3561.976484,14.32656593,Oct-21
+Hybrid Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Oct-21
+Conservative Hybrid Fund,Open ended Schemes,Hybrid Schemes,21,470557,813.97,407.49,18600.1,18422.88,2,45.36,406.48,885.7190476,19.35619048,Oct-21
+Balanced Hybrid Fund/Aggressive Hybrid Fund,Open ended Schemes,Hybrid Schemes,34,4887699,2691.63,2750.79,144914.12,146822.05,2,9.33,-59.16,4262.18,-1.74,Oct-21
+Dynamic Asset Allocation/Balanced Advantage Fund,Open ended Schemes,Hybrid Schemes,25,3785745,13646.23,2426.98,161393.11,156944.04,0,0,11219.25,6455.7244,448.77,Oct-21
+Multi Asset Allocation Fund,Open ended Schemes,Hybrid Schemes,10,752252,620.4,372.95,18403.39,19329.16,0,0,247.45,1840.339,24.745,Oct-21
+Arbitrage Fund,Open ended Schemes,Hybrid Schemes,26,508124,7220.78,9564.57,104018.39,119197.74,0,0,-2343.79,4000.707308,-90.14576923,Oct-21
+Equity Savings Fund,Open ended Schemes,Hybrid Schemes,23,324321,1704.52,737.63,15282.24,15508.34,2,25.81,966.89,664.4452174,42.03869565,Oct-21
+Sub Total - III (i+ii+iii+iv+v+vi),,,139,10728698,26697.53,16260.41,462611.35,476224.2,6,80.5,10437.12,3328.139209,75.08719424,Oct-21
+Solution Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Oct-21
+Retirement Fund,Open ended Schemes,Solution Oriented Schemes,25,2655043,199.64,140.66,16294.85,16447.13,0,0,58.98,651.794,2.3592,Oct-21
+Childrens Fund,Open ended Schemes,Solution Oriented Schemes,10,2880730,97.39,57.59,12951.76,13003.15,0,0,39.8,1295.176,3.98,Oct-21
+Sub Total - IV (i+ii),,,35,5535773,297.03,198.25,29246.61,29450.28,0,0,98.78,835.6174286,2.822285714,Oct-21
+Other Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Oct-21
+Index Funds,Open ended Schemes,Other Schemes,57,1781931,4465.66,951.45,37528.16,36454.1,0,0,3514.21,658.3887719,61.65280702,Oct-21
+GOLD ETF,Open ended Schemes,Other Schemes,11,2663225,314.8,11.19,17320.67,16941.32,0,0,303.61,1574.606364,27.60090909,Oct-21
+Other ETFs,Open ended Schemes,Other Schemes,106,7467405,10162.05,4734.92,370335.89,371960.28,0,0,5427.13,3493.734811,51.19933962,Oct-21
+Fund of funds investing overseas,Open ended Schemes,Other Schemes,40,1140119,1971.44,457.55,24001.11,23013.74,0,0,1513.89,600.02775,37.84725,Oct-21
+Sub Total - V (i+ii+iii+iv),,,214,13052680,16913.96,6155.11,449185.82,448369.43,0,0,10758.85,2098.999159,50.275,Oct-21
+Total A-Open ended Schemes,,,1072,113575727,750782.71,711288.71,3668933.28,3756513.31,26,812.82,39494,3422.512388,36.84141791,Oct-21
+Close Ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Oct-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Oct-21
+Fixed Term Plan,Close Ended Schemes,Income/Debt Oriented Schemes,292,198643,250.69,1330.48,47434.48,48200.4,0,0,-1079.79,162.4468493,-3.697910959,Oct-21
+Capital Protection Oriented Schemes,Close Ended Schemes,Income/Debt Oriented Schemes,13,30599,0,2.4,1607.19,1612.08,0,0,-2.4,123.63,-0.184615385,Oct-21
+Infrastructure Debt Fund,Close Ended Schemes,Income/Debt Oriented Schemes,8,80,0,0,1888,1885.1,0,0,0,236,0,Oct-21
+Other Debt Scheme,Close Ended Schemes,Income/Debt Oriented Schemes,1,718,0,0,61.17,61.1,0,0,0,61.17,0,Oct-21
+Sub Total (i+ii+iii+iv),,,314,230040,250.69,1332.88,50990.84,51758.68,0,0,-1082.19,162.3912102,-3.446464968,Oct-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Oct-21
+ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,20,322836,0,65.68,4003.97,4083.38,0,0,-65.68,200.1985,-3.284,Oct-21
+Other Equity Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,29,249075,0,70.03,9166.56,9322.99,0,0,-70.03,316.0882759,-2.414827586,Oct-21
+Sub Total (i+ii),,,49,571911,0,135.71,13170.53,13406.37,0,0,-135.71,268.7863265,-2.769591837,Oct-21
+Other Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,0,0,0,0,0,0,0,0,0,0,0,Oct-21
+Total B -Close ended Schemes,,,363,801951,250.69,1468.59,64161.37,65165.05,0,0,-1217.9,176.7530854,-3.355096419,Oct-21
+Interval Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Oct-21
+Income/Debt Oriented Schemes,Interval Schemes,,21,3193,0.01,0.96,109.17,137.72,0,0,-0.95,5.198571429,-0.045238095,Oct-21
+Growth/Equity Oriented Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Oct-21
+Other Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Oct-21
+Total C Interval Schemes,,,21,3193,0.01,0.96,109.17,137.72,0,0,-0.95,5.198571429,-0.045238095,Oct-21
+Grand Total,,,1456,114380871,751033.4,712758.26,3733203.82,3821816.08,26,812.82,38275.14,2564.013613,26.28787088,Oct-21
+Fund of Funds Scheme (Domestic) **,,,61,1515219,1969.09,726.4,40945.97,40122.79,0,0,1242.69,671.2454098,20.37196721,Oct-21
+Open ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Sep-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Sep-21
+Overnight Fund,Open ended Schemes,Income/Debt Oriented Schemes,30,125159,365925.62,349613.58,94273.39,89975.24,0,0,16312.04,3142.446333,543.7346667,Sep-21
+Liquid Fund,Open ended Schemes,Income/Debt Oriented Schemes,39,2123358,237925.11,286304.29,323838.05,369249.77,0,0,-48379.18,8303.539744,-1240.491795,Sep-21
+Ultra Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,28,649848,18613.57,29522.52,95827.79,103448.02,0,0,-10908.95,3422.421071,-389.6053571,Sep-21
+Low Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,24,1151054,20049.44,36658.69,140103.42,149712.5,2,28.35,-16609.25,5837.6425,-692.0520833,Sep-21
+Money Market Fund,Open ended Schemes,Income/Debt Oriented Schemes,20,481622,30995.52,39428.95,117091.79,127018.94,0,0,-8433.43,5854.5895,-421.6715,Sep-21
+Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,27,637927,5446.98,5382.5,142653.4,143184.79,1,22.74,64.48,5283.459259,2.388148148,Sep-21
+Medium Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,301674,2965.54,866.9,34912.79,34275.21,6,330.25,2098.64,2182.049375,131.165,Sep-21
+Medium to Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,13,121331,1288.49,169.78,12764.59,12424.12,1,16.27,1118.71,981.8915385,86.05461538,Sep-21
+Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,2,26246,22.25,32.11,2620.42,2615.41,0,0,-9.86,1310.21,-4.93,Sep-21
+Dynamic Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,26,251399,917.96,494.15,26081.12,25938.07,2,128.93,423.81,1003.12,16.30038462,Sep-21
+Corporate Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,20,717992,5318.38,6752.59,160354.64,162433.13,0,0,-1434.21,8017.732,-71.7105,Sep-21
+Credit Risk Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,284963,886.07,489.52,27670.31,27303.81,8,231.41,396.55,1729.394375,24.784375,Sep-21
+Banking and PSU Fund,Open ended Schemes,Income/Debt Oriented Schemes,22,365643,1981.17,6385.51,118001.08,120931.37,0,0,-4404.34,5363.685455,-200.1972727,Sep-21
+Gilt Fund,Open ended Schemes,Income/Debt Oriented Schemes,21,193648,862.02,810.94,16924.89,17012.17,0,0,51.08,805.9471429,2.432380952,Sep-21
+Gilt Fund with 10 year constant duration,Open ended Schemes,Income/Debt Oriented Schemes,4,50529,69.32,136.89,1442.11,1525.54,0,0,-67.57,360.5275,-16.8925,Sep-21
+Floater Fund,Open ended Schemes,Income/Debt Oriented Schemes,12,278617,14255.51,8384.24,100856.84,99946.91,0,0,5871.27,8404.736667,489.2725,Sep-21
+Sub Total - I (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi+xii+xiii+xiv+xv+xvi),,,320,7761010,707522.95,771433.18,1415416.61,1486994.99,20,757.95,-63910.23,4423.176906,-199.7194688,Sep-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Sep-21
+Multi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,12,1835717,4138.86,569.41,31442.41,27838.25,0,0,3569.45,2620.200833,297.4541667,Sep-21
+Large Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,33,11385481,4253.56,4239.66,218332.3,217576.75,0,0,13.9,6616.130303,0.421212121,Sep-21
+Large & Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,28,5690368,2447.91,2189.67,99628.51,99131.73,0,0,258.24,3558.161071,9.222857143,Sep-21
+Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,28,7684684,4361.58,3010.61,153023.64,151184.21,0,0,1350.97,5465.13,48.24892857,Sep-21
+Small Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,25,6396133,2992.35,3241.09,98014.17,96657.27,0,0,-248.74,3920.5668,-9.9496,Sep-21
+Dividend Yield Fund,Open ended Schemes,Growth/Equity Oriented Schemes,8,542982,153.29,171.69,9450.47,9367.41,0,0,-18.4,1181.30875,-2.3,Sep-21
+Value Fund/Contra Fund,Open ended Schemes,Growth/Equity Oriented Schemes,21,3887509,1587.92,1705.25,76427.43,75386.93,0,0,-117.33,3639.401429,-5.587142857,Sep-21
+Focused Fund,Open ended Schemes,Growth/Equity Oriented Schemes,27,4534024,2348.89,2234.44,91829.12,91656.51,0,0,114.45,3401.078519,4.238888889,Sep-21
+Sectoral/Thematic Funds,Open ended Schemes,Growth/Equity Oriented Schemes,112,9903316,6479.94,3861.67,136722.55,134902.43,0,0,2618.27,1220.737054,23.37741071,Sep-21
+ELSS,Open ended Schemes,Growth/Equity Oriented Schemes,42,12969205,1340.77,2212.85,149424.1,148933.19,0,0,-872.08,3557.716667,-20.76380952,Sep-21
+Flexi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,28,10221008,6551.57,4542.9,215352.51,213143.84,0,0,2008.67,7691.161071,71.73821429,Sep-21
+Sub Total - II (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi),,,364,75050427,36656.66,27979.25,1279647.2,1265778.52,0,0,8677.41,3515.514286,23.83903846,Sep-21
+Hybrid Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Sep-21
+Conservative Hybrid Fund,Open ended Schemes,Hybrid Schemes,21,463166,820.28,394.62,18087.44,17798.8,2,44.98,425.66,861.3066667,20.26952381,Sep-21
+Balanced Hybrid Fund/Aggressive Hybrid Fund,Open ended Schemes,Hybrid Schemes,34,4862337,2890.77,3110.29,144024.08,143452.51,2,9.33,-219.52,4236.002353,-6.456470588,Sep-21
+Dynamic Asset Allocation/Balanced Advantage Fund,Open ended Schemes,Hybrid Schemes,24,3527506,8131.46,2897.97,149883.93,147500.6,0,0,5233.49,6245.16375,218.0620833,Sep-21
+Multi Asset Allocation Fund,Open ended Schemes,Hybrid Schemes,10,743429,708.04,466.83,17948.15,18292.28,0,0,241.21,1794.815,24.121,Sep-21
+Arbitrage Fund,Open ended Schemes,Hybrid Schemes,26,564998,8202.89,11212.02,105975.07,120739.02,0,0,-3009.13,4075.964231,-115.7357692,Sep-21
+Equity Savings Fund,Open ended Schemes,Hybrid Schemes,23,314134,1587.73,671.85,14246.41,14291.18,2,25.81,915.88,619.4091304,39.82086957,Sep-21
+Sub Total - III (i+ii+iii+iv+v+vi),,,138,10475570,22341.16,18753.57,450165.06,462074.39,6,80.12,3587.59,3262.065652,25.99702899,Sep-21
+Solution Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Sep-21
+Retirement Fund,Open ended Schemes,Solution Oriented Schemes,25,2648701,208.97,151.4,16152.35,16035,0,0,57.57,646.094,2.3028,Sep-21
+Childrens Fund,Open ended Schemes,Solution Oriented Schemes,10,2880887,81.45,57.91,12797.82,12726.73,0,0,23.54,1279.782,2.354,Sep-21
+Sub Total - IV (i+ii),,,35,5529588,290.42,209.31,28950.17,28761.72,0,0,81.11,827.1477143,2.317428571,Sep-21
+Other Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Sep-21
+Index Funds,Open ended Schemes,Other Schemes,53,1622449,4264.08,1159.73,33824.26,31906.83,0,0,3104.35,638.1935849,58.57264151,Sep-21
+GOLD ETF,Open ended Schemes,Other Schemes,11,2459250,458.51,12.82,16336.82,16247.77,0,0,445.69,1485.165455,40.51727273,Sep-21
+Other ETFs,Open ended Schemes,Other Schemes,103,6905096,11467.15,3806.91,362936.91,356515.42,0,0,7660.24,3523.65932,74.37126214,Sep-21
+Fund of funds investing overseas,Open ended Schemes,Other Schemes,38,1047097,905.72,495.71,21126.84,21601.09,0,0,410.01,555.9694737,10.78973684,Sep-21
+Sub Total - V (i+ii+iii+iv),,,205,12033892,17095.46,5475.17,434224.83,426271.1,0,0,11620.29,2118.169902,56.68434146,Sep-21
+Total A-Open ended Schemes,,,1062,110850487,783906.65,823850.48,3608403.89,3669880.71,26,838.07,-39943.83,3397.743776,-37.61189266,Sep-21
+Close Ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Sep-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Sep-21
+Fixed Term Plan,Close Ended Schemes,Income/Debt Oriented Schemes,306,204162,493.39,5473.34,48548.91,51593.73,0,0,-4979.95,158.6565686,-16.27434641,Sep-21
+Capital Protection Oriented Schemes,Close Ended Schemes,Income/Debt Oriented Schemes,13,30600,0,103.73,1602.9,1704.92,0,0,-103.73,123.3,-7.979230769,Sep-21
+Infrastructure Debt Fund,Close Ended Schemes,Income/Debt Oriented Schemes,8,80,0,0,1879.89,2005.7,0,0,0,234.98625,0,Sep-21
+Other Debt Scheme,Close Ended Schemes,Income/Debt Oriented Schemes,1,718,0,0,60.52,60.68,0,0,0,60.52,0,Sep-21
+Sub Total (i+ii+iii+iv),,,328,235560,493.39,5577.07,52092.22,55365.02,0,0,-5083.68,158.8177439,-15.49902439,Sep-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Sep-21
+ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,20,325287,0,113.48,4026.34,4777.96,0,0,-113.48,201.317,-5.674,Sep-21
+Other Equity Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,31,255224,0,2107.55,9260.81,10623.29,0,0,-2107.55,298.7358065,-67.98548387,Sep-21
+Sub Total (i+ii),,,51,580511,0,2221.03,13287.14,15401.25,0,0,-2221.03,260.5321569,-43.54960784,Sep-21
+Other Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,0,0,0,0,0,0,0,0,0,0,0,Sep-21
+Total B -Close ended Schemes,,,379,816071,493.39,7798.1,65379.37,70766.27,0,0,-7304.71,172.504934,-19.27364116,Sep-21
+Interval Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Sep-21
+Income/Debt Oriented Schemes,Interval Schemes,,21,3218,0.07,8.87,109.88,144.39,0,0,-8.8,5.232380952,-0.419047619,Sep-21
+Growth/Equity Oriented Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Sep-21
+Other Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Sep-21
+Total C Interval Schemes,,,21,3218,0.07,8.87,109.88,144.39,0,0,-8.8,5.232380952,-0.419047619,Sep-21
+Grand Total,,,1462,111669776,784400.11,831657.45,3673893.13,3740791.37,26,838.07,-47257.34,2512.922798,-32.32376197,Sep-21
+Fund of Funds Scheme (Domestic) **,,,59,1493491,2056.19,641.79,38991.56,38377.43,0,0,1414.4,660.8738983,23.97288136,Sep-21
+Open ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Aug-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Aug-21
+Overnight Fund,Open ended Schemes,Income/Debt Oriented Schemes,30,125333,318023.85,329831.52,77725.65,94972.18,0,0,-11807.67,2590.855,-393.589,Aug-21
+Liquid Fund,Open ended Schemes,Income/Debt Oriented Schemes,39,2126963,251154.44,251868.54,371245.71,376230.66,0,0,-714.1,9519.120769,-18.31025641,Aug-21
+Ultra Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,28,646637,18151.79,16262,106445.19,105170.31,0,0,1889.79,3801.613929,67.4925,Aug-21
+Low Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,24,1148104,16305.5,23713.18,156106.63,160247.54,2,11.92,-7407.68,6504.442917,-308.6533333,Aug-21
+Money Market Fund,Open ended Schemes,Income/Debt Oriented Schemes,20,484192,28933.58,26885.32,125210.1,124083.37,0,0,2048.26,6260.505,102.413,Aug-21
+Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,27,637336,8676.99,8263.52,142038.34,140426.63,1,11.24,413.47,5260.679259,15.3137037,Aug-21
+Medium Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,298702,1022.55,826.63,32647.04,32390.82,6,327.66,195.92,2040.44,12.245,Aug-21
+Medium to Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,13,121294,1496.33,270.57,11544.69,10589.27,1,16.13,1225.76,888.0530769,94.28923077,Aug-21
+Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,2,26599,59.48,40.1,2583.22,2549.06,0,0,19.38,1291.61,9.69,Aug-21
+Dynamic Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,26,251937,1495.17,808.42,25470.96,25136.85,2,128.88,686.75,979.6523077,26.41346154,Aug-21
+Corporate Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,20,721319,10307.97,7243.02,161378.22,158475.71,0,0,3064.95,8068.911,153.2475,Aug-21
+Credit Risk Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,284978,553.91,451.04,27055,26901.21,8,230.81,102.87,1690.9375,6.429375,Aug-21
+Banking and PSU Fund,Open ended Schemes,Income/Debt Oriented Schemes,22,367750,4649.83,3629.19,122246.25,121143.65,0,0,1020.64,5556.647727,46.39272727,Aug-21
+Gilt Fund,Open ended Schemes,Income/Debt Oriented Schemes,21,193775,1056.64,739.47,16743.25,16362.42,0,0,317.17,797.297619,15.10333333,Aug-21
+Gilt Fund with 10 year constant duration,Open ended Schemes,Income/Debt Oriented Schemes,4,50204,100.94,72.78,1499.58,1472.06,0,0,28.16,374.895,7.04,Aug-21
+Floater Fund,Open ended Schemes,Income/Debt Oriented Schemes,12,269606,17076.59,7085.81,94751.37,89676.68,0,0,9990.78,7895.9475,832.565,Aug-21
+Sub Total - I (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi+xii+xiii+xiv+xv+xvi),,,320,7754729,679065.55,677991.11,1474691.23,1485828.43,20,726.64,1074.44,4608.410094,3.357625,Aug-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Aug-21
+Multi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,11,1639812,636.09,653.63,26790.79,25957.23,0,0,-17.54,2435.526364,-1.594545455,Aug-21
+Large Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,33,11187236,3723.66,3802.29,212473.34,205073.09,0,0,-78.63,6438.586061,-2.382727273,Aug-21
+Large & Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,28,5548081,2492.32,2041.38,96660.05,93857.97,0,0,450.94,3452.144643,16.105,Aug-21
+Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,27,7492165,3200.71,3038.77,146626.85,142798.12,0,0,161.94,5430.624074,5.997777778,Aug-21
+Small Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,25,6165044,2535.34,2698.05,93677.04,92454.2,0,0,-162.71,3747.0816,-6.5084,Aug-21
+Dividend Yield Fund,Open ended Schemes,Growth/Equity Oriented Schemes,8,540076,125.32,119.84,9164.22,8903.14,0,0,5.48,1145.5275,0.685,Aug-21
+Value Fund/Contra Fund,Open ended Schemes,Growth/Equity Oriented Schemes,19,3822234,980.63,1594,73612.85,71999.33,0,0,-613.37,3874.360526,-32.28263158,Aug-21
+Focused Fund,Open ended Schemes,Growth/Equity Oriented Schemes,27,4425952,4535.85,1463.08,89403.66,83676.13,0,0,3072.77,3311.246667,113.8062963,Aug-21
+Sectoral/Thematic Funds,Open ended Schemes,Growth/Equity Oriented Schemes,111,9453800,5615.7,3730.45,131122.23,126731.63,0,0,1885.25,1181.281351,16.98423423,Aug-21
+ELSS,Open ended Schemes,Growth/Equity Oriented Schemes,42,12852969,1281.47,2060.13,145950.6,141240.04,0,0,-778.66,3475.014286,-18.53952381,Aug-21
+Flexi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,28,9847338,8541.68,3800.46,207660.61,199078.87,0,0,4741.22,7416.450357,169.3292857,Aug-21
+Sub Total - II (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi),,,359,72974707,33668.76,25002.08,1233142.23,1191769.75,0,0,8666.68,3434.936574,24.14116992,Aug-21
+Hybrid Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Aug-21
+Conservative Hybrid Fund,Open ended Schemes,Hybrid Schemes,22,457641,737.95,726.8,17378.04,17216.65,2,44.58,11.15,789.9109091,0.506818182,Aug-21
+Balanced Hybrid Fund/Aggressive Hybrid Fund,Open ended Schemes,Hybrid Schemes,34,4826075,2475.42,3036.43,140797.39,137795.69,2,9.33,-561.01,4141.099706,-16.50029412,Aug-21
+Dynamic Asset Allocation/Balanced Advantage Fund,Open ended Schemes,Hybrid Schemes,24,3391912,18973.89,2402.92,141492.63,126420.92,0,0,16570.97,5895.52625,690.4570833,Aug-21
+Multi Asset Allocation Fund,Open ended Schemes,Hybrid Schemes,10,734944,443.44,492.48,17059.05,17526.85,0,0,-49.04,1705.905,-4.904,Aug-21
+Arbitrage Fund,Open ended Schemes,Hybrid Schemes,26,560457,14721.13,12927.99,108251.29,121284.79,0,0,1793.14,4163.511154,68.96692308,Aug-21
+Equity Savings Fund,Open ended Schemes,Hybrid Schemes,23,305370,1412.41,471.78,13135.98,13095.45,2,25.81,940.63,571.1295652,40.89695652,Aug-21
+Sub Total - III (i+ii+iii+iv+v+vi),,,139,10276399,38764.23,20058.39,438114.39,433340.35,6,79.72,18705.84,3151.902086,134.5743885,Aug-21
+Solution Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Aug-21
+Retirement Fund,Open ended Schemes,Solution Oriented Schemes,25,2642849,193.34,176.09,15697.99,15328.9,0,0,17.25,627.9196,0.69,Aug-21
+Childrens Fund,Open ended Schemes,Solution Oriented Schemes,10,2881269,79.41,67,12519.15,12262.87,0,0,12.41,1251.915,1.241,Aug-21
+Sub Total - IV (i+ii),,,35,5524118,272.75,243.09,28217.14,27591.77,0,0,29.66,806.204,0.847428571,Aug-21
+Other Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Aug-21
+Index Funds,Open ended Schemes,Other Schemes,51,1530663,3016.51,1082.13,30050.65,28093.41,0,0,1934.38,589.2284314,37.92901961,Aug-21
+GOLD ETF,Open ended Schemes,Other Schemes,11,2146745,265.08,241.16,16349.82,16348.5,0,0,23.92,1486.347273,2.174545455,Aug-21
+Other ETFs,Open ended Schemes,Other Schemes,101,6304648,11714.59,3166.47,344292.22,328690.14,0,0,8548.12,3408.833861,84.63485149,Aug-21
+Fund of funds investing overseas,Open ended Schemes,Other Schemes,38,1032517,1396.92,311.63,21441.19,20804.15,0,0,1085.29,564.2418421,28.56026316,Aug-21
+Sub Total - V (i+ii+iii+iv),,,201,11014573,16393.1,4801.38,412133.88,393936.2,0,0,11591.72,2050.417313,57.67024876,Aug-21
+Total A-Open ended Schemes,,,1054,107544526,768164.39,728096.05,3586298.87,3532466.5,26,806.36,40068.34,3402.560598,38.01550285,Aug-21
+Close Ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Aug-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Aug-21
+Fixed Term Plan ##,Close Ended Schemes,,332,227395,913.68,7393.23,53286.47,57332.59,0,0,-6479.55,160.5014157,-19.51671687,Aug-21
+Capital Protection Oriented Schemes,Close Ended Schemes,Income/Debt Oriented Schemes,14,32901,0,0.09,1702.98,1687.6,0,0,-0.09,121.6414286,-0.006428571,Aug-21
+Infrastructure Debt Fund,Close Ended Schemes,Income/Debt Oriented Schemes,8,80,0,0,2004.53,2001.09,0,0,0,250.56625,0,Aug-21
+Other Debt Scheme,Close Ended Schemes,Income/Debt Oriented Schemes,1,718,0,0,60.17,59.8,0,0,0,60.17,0,Aug-21
+Sub Total (i+ii+iii+iv),,,355,261094,913.68,7393.32,57054.15,61081.08,0,0,-6479.64,160.7159155,-18.25250704,Aug-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Aug-21
+ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,25,398892,0,202.94,4897,4839.54,0,0,-202.94,195.88,-8.1176,Aug-21
+Other Equity Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,33,345456,0,406.94,11077.38,10937.12,0,0,-406.94,335.6781818,-12.33151515,Aug-21
+Sub Total (i+ii),,,58,744348,0,609.89,15974.38,15776.66,0,0,-609.89,275.4203448,-10.51534483,Aug-21
+Other Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,0,0,0,0,0,0,0,0,0,0,0,Aug-21
+Total B -Close ended Schemes,,,413,1005442,913.68,8003.21,73028.53,76857.74,0,0,-7089.53,176.8245278,-17.1659322,Aug-21
+Interval Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Aug-21
+Income/Debt Oriented Schemes,Interval Schemes,,21,3294,0.02,2.63,117.64,146.49,0,0,-2.61,5.601904762,-0.124285714,Aug-21
+Growth/Equity Oriented Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Aug-21
+Other Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Aug-21
+Total C Interval Schemes,,,21,3294,0.02,2.63,117.64,146.49,0,0,-2.61,5.601904762,-0.124285714,Aug-21
+Grand Total,,,1488,108553262,769078.1,736101.89,3659445.04,3609470.73,26,806.36,32976.21,2459.304462,22.16143145,Aug-21
+Fund of Funds Scheme (Domestic) **,,,57,1425304,1740.41,542.4,37506.55,36555.27,0,0,1198.01,658.0096491,21.0177193,Aug-21
+Open ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jul-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jul-21
+Overnight Fund,Open ended Schemes,Income/Debt Oriented Schemes,30,127165,307472.88,301540.28,89293.83,99098.93,0,0,5932.6,2976.461,197.7533333,Jul-21
+Liquid Fund,Open ended Schemes,Income/Debt Oriented Schemes,39,2140748,275317.99,243578.2,370811.93,379152.48,0,0,31739.79,9507.998205,813.8407692,Jul-21
+Ultra Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,28,651504,24062.77,17406.84,104172.99,102772.32,0,0,6655.93,3720.463929,237.7117857,Jul-21
+Low Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,24,1161022,23462.49,15301.04,162704.07,163027.06,2,11.92,8161.45,6779.33625,340.0604167,Jul-21
+Money Market Fund,Open ended Schemes,Income/Debt Oriented Schemes,18,490463,40733.93,19823.49,122718.1,117508.4,0,0,20910.44,6817.672222,1161.691111,Jul-21
+Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,26,643977,4520.98,5948.05,140690.05,140740.19,1,11.24,-1427.07,5411.155769,-54.88730769,Jul-21
+Medium Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,299113,2309.33,1517.75,32213.41,31222.94,6,327.6,791.58,2013.338125,49.47375,Jul-21
+Medium to Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,13,122526,131.66,1865.28,10219.22,11050.77,1,15.98,-1733.62,786.0938462,-133.3553846,Jul-21
+Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,2,27299,20.56,43.25,2532.66,2536.79,0,0,-22.69,1266.33,-11.345,Jul-21
+Dynamic Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,26,256475,1468.67,1833.52,24570.14,24572.66,2,128.81,-364.85,945.0053846,-14.03269231,Jul-21
+Corporate Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,20,729435,4776.84,7844.53,157184.98,158217.91,0,0,-3067.69,7859.249,-153.3845,Jul-21
+Credit Risk Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,286609,764.43,462.88,26754.34,26511.65,8,230.16,301.55,1672.14625,18.846875,Jul-21
+Banking and PSU Fund,Open ended Schemes,Income/Debt Oriented Schemes,22,373690,3997.09,5111.24,120496.26,120181.91,0,0,-1114.15,5477.102727,-50.64318182,Jul-21
+Gilt Fund,Open ended Schemes,Income/Debt Oriented Schemes,21,197683,928.56,1374.09,16255.86,16308.09,0,0,-445.53,774.0885714,-21.21571429,Jul-21
+Gilt Fund with 10 year constant duration,Open ended Schemes,Income/Debt Oriented Schemes,4,51180,22.43,69.64,1453.08,1468.68,0,0,-47.21,363.27,-11.8025,Jul-21
+Floater Fund,Open ended Schemes,Income/Debt Oriented Schemes,12,269200,14833.75,7410.25,84151.88,78499.8,0,0,7423.5,7012.656667,618.625,Jul-21
+Sub Total - I (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi+xii+xiii+xiv+xv+xvi),,,317,7828089,704824.37,631130.33,1466222.79,1472870.56,20,725.71,73694.04,4625.308486,232.4733123,Jul-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jul-21
+Multi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,11,1601883,685.83,521.27,25802.52,25153.58,0,0,164.56,2345.683636,14.96,Jul-21
+Large Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,33,11046261,3757.06,3164.05,198796.32,197437.09,0,0,593.01,6024.130909,17.97,Jul-21
+Large & Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,28,5415249,2379.01,1145.11,92208.8,90171.82,0,0,1233.9,3293.171429,44.06785714,Jul-21
+Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,27,7328031,3591.62,2103.75,142791.5,139167.17,0,0,1487.87,5288.574074,55.1062963,Jul-21
+Small Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,25,5922875,3540.22,1761.57,94014.75,90450.98,0,0,1778.65,3760.59,71.146,Jul-21
+Dividend Yield Fund,Open ended Schemes,Growth/Equity Oriented Schemes,8,539484,153.83,101,8763.8,8570.18,0,0,52.83,1095.475,6.60375,Jul-21
+Value Fund/Contra Fund,Open ended Schemes,Growth/Equity Oriented Schemes,19,3824510,1229.11,1691.29,71530.63,69988.47,0,0,-462.18,3764.77,-24.32526316,Jul-21
+Focused Fund,Open ended Schemes,Growth/Equity Oriented Schemes,26,4201884,2236.16,1226.29,80871.36,79669.72,0,0,1009.87,3110.436923,38.84115385,Jul-21
+Sectoral/Thematic Funds,Open ended Schemes,Growth/Equity Oriented Schemes,110,9050255,8627.73,2899.2,123935.71,121170.36,0,0,5728.53,1126.688273,52.07754545,Jul-21
+ELSS,Open ended Schemes,Growth/Equity Oriented Schemes,42,12815213,1338.5,1850.25,138662.7,137543.94,0,0,-511.75,3301.492857,-12.18452381,Jul-21
+Flexi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,26,9331465,14561.82,3053.59,193422.29,185252.93,0,0,11508.23,7439.318846,442.6242308,Jul-21
+Sub Total - II (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi),,,355,71077110,42100.88,19517.36,1170800.37,1144576.24,0,0,22583.52,3298.029211,63.6155493,Jul-21
+Hybrid Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jul-21
+Conservative Hybrid Fund,Open ended Schemes,Hybrid Schemes,22,459172,1177.14,450.65,17079.5,15910.03,2,44.16,726.49,776.3409091,33.02227273,Jul-21
+Balanced Hybrid Fund/Aggressive Hybrid Fund,Open ended Schemes,Hybrid Schemes,34,4807843,3378.04,2637.4,135589.18,133934.81,2,9.33,740.64,3987.917059,21.78352941,Jul-21
+Dynamic Asset Allocation/Balanced Advantage Fund,Open ended Schemes,Hybrid Schemes,23,2982734,4719.48,2265.89,122591.86,122265.9,0,0,2453.59,5330.08087,106.6778261,Jul-21
+Multi Asset Allocation Fund,Open ended Schemes,Hybrid Schemes,10,732775,471.63,480.92,16432.03,17082.47,0,0,-9.29,1643.203,-0.929,Jul-21
+Arbitrage Fund,Open ended Schemes,Hybrid Schemes,26,552026,20043.22,5118.79,108177.88,111049.03,0,0,14924.43,4160.687692,574.0165385,Jul-21
+Equity Savings Fund,Open ended Schemes,Hybrid Schemes,23,300058,1110.54,465.33,12031.15,12088.53,2,25.81,645.21,523.0934783,28.0526087,Jul-21
+Sub Total - III (i+ii+iii+iv+v+vi),,,138,9834608,30900.05,11418.98,411901.6,412330.77,6,79.3,19481.07,2984.794203,141.1671739,Jul-21
+Solution Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jul-21
+Retirement Fund,Open ended Schemes,Solution Oriented Schemes,25,2639949,204.93,163.85,15130.15,14969.45,0,0,41.08,605.206,1.6432,Jul-21
+Childrens Fund,Open ended Schemes,Solution Oriented Schemes,10,2882059,87.73,50.55,12105.23,11974.25,0,0,37.18,1210.523,3.718,Jul-21
+Sub Total - IV (i+ii),,,35,5522008,292.67,214.4,27235.38,26943.7,0,0,78.27,778.1537143,2.236285714,Jul-21
+Other Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jul-21
+Index Funds,Open ended Schemes,Other Schemes,50,1432720,1974.65,863.81,26332.77,25728.03,0,0,1110.84,526.6554,22.2168,Jul-21
+GOLD ETF,Open ended Schemes,Other Schemes,11,1913635,195.84,257.33,16749.75,16579.71,0,0,-61.49,1522.704545,-5.59,Jul-21
+Other ETFs,Open ended Schemes,Other Schemes,100,5857391,10322.97,3778.4,314059.98,311093.16,0,0,6544.57,3140.5998,65.4457,Jul-21
+Fund of funds investing overseas,Open ended Schemes,Other Schemes,37,979540,2777.34,287.09,20331.25,18513.44,0,0,2490.25,549.4932432,67.30405405,Jul-21
+Sub Total - V (i+ii+iii+iv),,,198,10183286,15270.8,5186.64,377473.74,371914.34,0,0,10084.16,1906.43303,50.93010101,Jul-21
+Total A-Open ended Schemes,,,1043,104445101,793388.77,667467.71,3453633.89,3428635.61,26,805.01,125921.06,3311.250134,120.7296836,Jul-21
+Close Ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jul-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jul-21
+Fixed Term Plan,Close Ended Schemes,Income/Debt Oriented Schemes,363,245255,241.19,10020.27,58397.22,65110.18,0,0,-9779.08,160.8738843,-26.93961433,Jul-21
+Capital Protection Oriented Schemes,Close Ended Schemes,Income/Debt Oriented Schemes,14,32901,0,0,1678.02,1673.99,0,0,0,119.8585714,0,Jul-21
+Infrastructure Debt Fund,Close Ended Schemes,Income/Debt Oriented Schemes,8,80,0,0,1991.23,1985.78,0,0,0,248.90375,0,Jul-21
+Other Debt Scheme,Close Ended Schemes,Income/Debt Oriented Schemes,1,718,0,45.02,59.76,61.1,0,0,-45.02,59.76,-45.02,Jul-21
+Sub Total (i+ii+iii+iv),,,386,278954,241.19,10065.29,62126.23,68831.05,0,0,-9824.1,160.9487824,-25.45103627,Jul-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jul-21
+ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,25,407746,0,164.53,4879.52,4910.68,0,0,-164.53,195.1808,-6.5812,Jul-21
+Other Equity Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,35,362698,0,1676.22,11093.43,12184,0,0,-1676.22,316.9551429,-47.892,Jul-21
+Sub Total (i+ii),,,60,770444,0,1840.75,15972.96,17094.68,0,0,-1840.75,266.216,-30.67916667,Jul-21
+Other Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,0,0,0,0,0,0,0,0,0,0,0,Jul-21
+Total B -Close ended Schemes,,,446,1049398,241.19,11906.04,78099.18,85925.73,0,0,-11664.85,175.1102691,-26.1543722,Jul-21
+Interval Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jul-21
+Income/Debt Oriented Schemes,Interval Schemes,,21,3338,0.01,1.03,119.76,148.24,0,0,-1.02,5.702857143,-0.048571429,Jul-21
+Growth/Equity Oriented Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Jul-21
+Other Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Jul-21
+Total C Interval Schemes,,,21,3338,0.01,1.03,119.76,148.24,0,0,-1.02,5.702857143,-0.048571429,Jul-21
+Grand Total,,,1510,105497837,793629.97,679374.77,3531852.83,3514709.58,26,805.01,114255.2,2338.975384,75.66569536,Jul-21
+Fund of Funds Scheme (Domestic) **,,,57,1399549,1750.04,754.28,35886.85,35209.47,0,0,995.76,629.5938596,17.46947368,Jul-21
+Open ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jun-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jun-21
+Overnight Fund,Open ended Schemes,Income/Debt Oriented Schemes,30,127691,285475.26,281015.26,83153.33,98242.12,0,0,4460,2771.777667,148.6666667,Jun-21
+Liquid Fund,Open ended Schemes,Income/Debt Oriented Schemes,39,2152953,253056.98,250978.5,338007.1,361166.86,0,0,2078.48,8666.848718,53.29435897,Jun-21
+Ultra Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,28,653790,16310.52,18750.25,97098.36,99397.28,0,0,-2439.73,3467.798571,-87.13321429,Jun-21
+Low Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,24,1167143,30408.05,24134.83,153800.77,151485.12,2,11.92,6273.22,6408.365417,261.3841667,Jun-21
+Money Market Fund,Open ended Schemes,Income/Debt Oriented Schemes,18,490517,23266.47,37254.2,101398.94,113241.79,0,0,-13987.73,5633.274444,-777.0961111,Jun-21
+Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,26,653160,5972.78,7029.58,141395.73,142225.56,1,11.24,-1056.8,5438.297308,-40.64615385,Jun-21
+Medium Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,15,292817,1136.79,1131.99,31211.38,31510.88,6,327.54,4.8,2080.758667,0.32,Jun-21
+Medium to Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,13,123914,560.78,135.73,11914.24,11826.97,1,15.83,425.05,916.48,32.69615385,Jun-21
+Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,2,28228,16.32,36.22,2559.81,2594.01,0,0,-19.9,1279.905,-9.95,Jun-21
+Dynamic Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,25,259221,1570.32,1622.12,24881.87,25611.9,2,128.76,-51.8,995.2748,-2.072,Jun-21
+Corporate Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,20,734750,7572.2,7042.14,159287.93,159579.19,0,0,530.06,7964.3965,26.503,Jun-21
+Credit Risk Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,287289,696.83,460.13,26229.94,26094.44,8,229.55,236.7,1639.37125,14.79375,Jun-21
+Banking and PSU Fund,Open ended Schemes,Income/Debt Oriented Schemes,22,380835,4977.99,3620.44,120872.39,120360.68,0,0,1357.55,5494.199545,61.70681818,Jun-21
+Gilt Fund,Open ended Schemes,Income/Debt Oriented Schemes,21,203566,739.5,1277.56,16654.84,17084.14,0,0,-538.06,793.087619,-25.62190476,Jun-21
+Gilt Fund with 10 year constant duration,Open ended Schemes,Income/Debt Oriented Schemes,4,53204,37.75,62.11,1496.69,1514.75,0,0,-24.36,374.1725,-6.09,Jun-21
+Floater Fund,Open ended Schemes,Income/Debt Oriented Schemes,10,260864,10885.45,4566.53,76221.18,73533.93,0,0,6318.92,7622.118,631.892,Jun-21
+Sub Total - I (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi+xii+xiii+xiv+xv+xvi),,,313,7869942,642683.99,639117.59,1386184.54,1435469.62,20,724.85,3566.4,4428.704601,11.3942492,Jun-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jun-21
+Multi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,11,1556671,660.1,450.51,24436.68,24074.11,0,0,209.59,2221.516364,19.05363636,Jun-21
+Large Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,33,10899563,3795.25,3247.93,194854.79,194095.73,0,0,547.32,5904.690606,16.58545455,Jun-21
+Large & Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,28,5273746,2119.17,1318.51,87752.9,86171.81,0,0,800.66,3134.032143,28.595,Jun-21
+Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,27,7127085,4036.23,2307.16,134925.31,132181.09,0,0,1729.07,4997.233704,64.03962963,Jun-21
+Small Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,24,5544829,2575.84,1870.7,85957.21,83501.68,0,0,705.14,3581.550417,29.38083333,Jun-21
+Dividend Yield Fund,Open ended Schemes,Growth/Equity Oriented Schemes,8,537732,162.74,123.08,8397.47,8254.43,0,0,39.66,1049.68375,4.9575,Jun-21
+Value Fund/Contra Fund,Open ended Schemes,Growth/Equity Oriented Schemes,19,3805543,1311.58,1426.46,69008.12,67516.93,0,0,-114.88,3632.006316,-6.046315789,Jun-21
+Focused Fund,Open ended Schemes,Growth/Equity Oriented Schemes,26,4115326,2247.65,1678.66,77763.59,76974.28,0,0,568.99,2990.907308,21.88423077,Jun-21
+Sectoral/Thematic Funds,Open ended Schemes,Growth/Equity Oriented Schemes,108,8538521,4584.5,3377.13,114683.65,113050.9,0,0,1207.37,1061.885648,11.17935185,Jun-21
+ELSS,Open ended Schemes,Growth/Equity Oriented Schemes,42,12758592,1255.54,2047.4,135624,135052.22,0,0,-791.86,3229.142857,-18.85380952,Jun-21
+Flexi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,25,8755108,4162.49,3075.38,176621.76,174779.57,0,0,1087.11,7064.8704,43.4844,Jun-21
+Sub Total - II (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi),,,351,68912716,26911.09,20922.92,1110025.49,1095652.75,0,0,5988.17,3162.465783,17.06031339,Jun-21
+Hybrid Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jun-21
+Conservative Hybrid Fund,Open ended Schemes,Hybrid Schemes,22,408857,885.52,251.51,14563.55,14277.09,2,43.77,634.01,661.9795455,28.81863636,Jun-21
+Balanced Hybrid Fund/Aggressive Hybrid Fund,Open ended Schemes,Hybrid Schemes,34,4767992,2470.62,2772.11,131474.85,131356.09,2,9.33,-301.49,3866.907353,-8.867352941,Jun-21
+Dynamic Asset Allocation/Balanced Advantage Fund,Open ended Schemes,Hybrid Schemes,24,2950326,4380.56,2323.68,119262.08,119643.34,0,0,2056.88,4969.253333,85.70333333,Jun-21
+Multi Asset Allocation Fund,Open ended Schemes,Hybrid Schemes,10,729990,463.45,374.42,16072.7,16905.45,0,0,89.03,1607.27,8.903,Jun-21
+Arbitrage Fund,Open ended Schemes,Hybrid Schemes,27,537413,14520.3,5460.73,94840.95,98210.86,0,0,9059.57,3512.627778,335.5396296,Jun-21
+Equity Savings Fund,Open ended Schemes,Hybrid Schemes,23,296255,1166.88,343.41,11379.89,11292.18,2,25.81,823.47,494.7778261,35.80304348,Jun-21
+Sub Total - III (i+ii+iii+iv+v+vi),,,140,9690833,23887.34,11525.87,387594.01,391685,6,78.91,12361.47,2768.528643,88.29621429,Jun-21
+Solution Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jun-21
+Retirement Fund,Open ended Schemes,Solution Oriented Schemes,25,2635896,204.42,150.91,14741.61,14636.35,0,0,53.51,589.6644,2.1404,Jun-21
+Childrens Fund,Open ended Schemes,Solution Oriented Schemes,10,2882036,84.1,41.42,11790.44,11647.94,0,0,42.68,1179.044,4.268,Jun-21
+Sub Total - IV (i+ii),,,35,5517932,288.52,192.33,26532.05,26284.29,0,0,96.19,758.0585714,2.748285714,Jun-21
+Other Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jun-21
+Index Funds,Open ended Schemes,Other Schemes,49,1341913,2320.11,633.44,24946.7,24134.29,0,0,1686.67,509.1163265,34.42183673,Jun-21
+GOLD ETF,Open ended Schemes,Other Schemes,11,1832124,672.81,313.15,16225.14,16508.88,0,0,359.66,1475.012727,32.69636364,Jun-21
+Other ETFs,Open ended Schemes,Other Schemes,97,5381634,7549.63,4537.03,306319.04,304210.07,0,0,3012.6,3157.928247,31.05773196,Jun-21
+Fund of funds investing overseas,Open ended Schemes,Other Schemes,36,879037,1060.38,268.87,17863.84,16974.76,0,0,791.51,496.2177778,21.98638889,Jun-21
+Sub Total - V (i+ii+iii+iv),,,193,9434708,11602.92,5752.49,365354.71,361828,0,0,5850.43,1893.029585,30.31310881,Jun-21
+Total A-Open ended Schemes,,,1032,101426131,705373.86,677511.21,3275690.8,3310919.67,26,803.76,27862.65,3174.118992,26.99869186,Jun-21
+Close Ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jun-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jun-21
+Fixed Term Plan,Close Ended Schemes,Income/Debt Oriented Schemes,413,286723,732.02,11268.5,69526.03,75402.66,0,0,-10536.48,168.3438983,-25.51205811,Jun-21
+Capital Protection Oriented Schemes,Close Ended Schemes,Income/Debt Oriented Schemes,14,32900,0,125.47,1667.24,1682.31,0,0,-125.47,119.0885714,-8.962142857,Jun-21
+Infrastructure Debt Fund,Close Ended Schemes,Income/Debt Oriented Schemes,8,80,0,0,1979,1975.08,0,0,0,247.375,0,Jun-21
+Other Debt Scheme,Close Ended Schemes,Income/Debt Oriented Schemes,2,1293,0,499.3,104.41,375.29,0,0,-499.3,52.205,-249.65,Jun-21
+Sub Total (i+ii+iii+iv),,,437,320996,732.02,11893.27,73276.69,79435.34,0,0,-11161.25,167.6812128,-25.54061785,Jun-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jun-21
+ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,25,414688,0,99.3,4897.03,4880.01,0,0,-99.3,195.8812,-3.972,Jun-21
+Other Equity Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,39,433731,0,1280.12,12897.49,15019.47,0,0,-1280.12,330.7048718,-32.82358974,Jun-21
+Sub Total (i+ii),,,64,848419,0,1379.42,17794.53,19899.48,0,0,-1379.42,278.0395313,-21.5534375,Jun-21
+Other Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,0,0,0,0,0,0,0,0,0,0,0,Jun-21
+Total B -Close ended Schemes,,,501,1169415,732.02,13272.69,91071.21,99334.82,0,0,-12540.67,181.7788623,-25.03127745,Jun-21
+Interval Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Jun-21
+Income/Debt Oriented Schemes,Interval Schemes,,21,3360,0.03,1.73,114.48,148.98,0,0,-1.7,5.451428571,-0.080952381,Jun-21
+Growth/Equity Oriented Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Jun-21
+Other Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Jun-21
+Total C Interval Schemes,,,21,3360,0.03,1.73,114.48,148.98,0,0,-1.7,5.451428571,-0.080952381,Jun-21
+Grand Total,,,1554,102598906,706105.91,690785.63,3366876.5,3410403.47,26,803.76,15320.28,2166.587194,9.858610039,Jun-21
+Fund of Funds Scheme (Domestic) **,,,57,1365421,2130.29,618.03,34300.01,33614.8,0,0,1512.26,601.7545614,26.53087719,Jun-21
+Open ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,May-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,May-21
+Overnight Fund,Open ended Schemes,Income/Debt Oriented Schemes,30,126089,249965.27,261538.28,78399.27,92270.06,0,0,-11573.01,2613.309,-385.767,May-21
+Liquid Fund,Open ended Schemes,Income/Debt Oriented Schemes,39,2173170,198554.21,244001.57,334986.94,365202.2,0,0,-45447.36,8589.408718,-1165.316923,May-21
+Ultra Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,28,648109,17295.85,14372.08,99236.5,98922.34,0,0,2923.77,3544.160714,104.4203571,May-21
+Low Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,24,1172682,20940.87,13118.24,147046.5,143817.53,2,11.92,7822.63,6126.9375,325.9429167,May-21
+Money Market Fund,Open ended Schemes,Income/Debt Oriented Schemes,18,489855,23564.29,19230.05,115061.85,113725.42,0,0,4334.24,6392.325,240.7911111,May-21
+Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,26,648233,6312.1,7346.25,142260.19,143840.33,1,11.24,-1034.15,5471.545769,-39.775,May-21
+Medium Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,15,288377,864.75,457.17,31135.38,30864.43,6,327.48,407.58,2075.692,27.172,May-21
+Medium to Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,13,124790,950.18,102.72,11476.64,10915.74,1,15.69,847.46,882.8184615,65.18923077,May-21
+Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,2,28883,34.98,27.59,2605.86,2613.45,0,0,7.39,1302.93,3.695,May-21
+Dynamic Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,25,261292,1292.03,743.08,24866.28,24439.92,2,128.7,548.95,994.6512,21.958,May-21
+Corporate Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,20,731334,5585.83,7053.96,158803.53,160070.53,0,0,-1468.13,7940.1765,-73.4065,May-21
+Credit Risk Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,287465,557.79,299.53,25879.36,25656.35,8,228.94,258.26,1617.46,16.14125,May-21
+Banking and PSU Fund,Open ended Schemes,Income/Debt Oriented Schemes,22,382838,3406.55,4746.49,119452.78,120776.36,0,0,-1339.94,5429.671818,-60.90636364,May-21
+Gilt Fund,Open ended Schemes,Income/Debt Oriented Schemes,21,208404,919.97,1864.25,17178.06,17522.43,0,0,-944.28,818.0028571,-44.96571429,May-21
+Gilt Fund with 10 year constant duration,Open ended Schemes,Income/Debt Oriented Schemes,4,54990,63.85,45.96,1521.02,1515.85,0,0,17.89,380.255,4.4725,May-21
+Floater Fund,Open ended Schemes,Income/Debt Oriented Schemes,10,253649,6835.88,6709.23,69697.69,70237.85,0,0,126.65,6969.769,12.665,May-21
+Sub Total - I (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi+xii+xiii+xiv+xv+xvi),,,313,7880160,537144.42,581656.46,1379607.84,1422390.79,20,723.97,-44512.04,4407.69278,-142.2109904,May-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,May-21
+Multi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,11,1516099,2479.63,525.44,23482.59,22200.21,0,0,1954.19,2134.780909,177.6536364,May-21
+Large Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,32,10760639,3371.83,2434.41,190809.44,183721.37,0,0,937.42,5962.795,29.294375,May-21
+Large & Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,28,5161295,1876.68,1031.96,83718.03,80444.97,0,0,844.72,2989.929643,30.16857143,May-21
+Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,27,6899084,2946.9,1578.84,127262.97,122715.96,0,0,1368.06,4713.443333,50.66888889,May-21
+Small Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,24,5297876,2316.09,1235.4,80379.64,76684.93,0,0,1080.69,3349.151667,45.02875,May-21
+Dividend Yield Fund,Open ended Schemes,Growth/Equity Oriented Schemes,8,533758,722.06,61.73,7985.6,7388.56,0,0,660.33,998.2,82.54125,May-21
+Value Fund/Contra Fund,Open ended Schemes,Growth/Equity Oriented Schemes,18,3740816,1029.5,938.79,66004.52,63694.29,0,0,90.71,3666.917778,5.039444444,May-21
+Focused Fund,Open ended Schemes,Growth/Equity Oriented Schemes,26,4048306,2387.19,1217.95,75073.99,71741.94,0,0,1169.24,2887.461154,44.97076923,May-21
+Sectoral/Thematic Funds,Open ended Schemes,Growth/Equity Oriented Schemes,107,8243946,3710.11,2573.28,109318.32,105336.03,0,0,1136.83,1021.666542,10.62457944,May-21
+ELSS,Open ended Schemes,Growth/Equity Oriented Schemes,42,12717303,1154.01,1443.71,132704.13,128406.19,0,0,-289.7,3159.622143,-6.897619048,May-21
+Flexi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,25,8584643,3639.63,2509.15,171160.03,164567.02,0,0,1130.48,6846.4012,45.2192,May-21
+Sub Total - II (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi),,,348,67503765,25633.64,15550.66,1067899.26,1026901.47,0,0,10082.98,3068.676034,28.97408046,May-21
+Hybrid Schemes,,,0,0,0,0,0,0,0,0,0,0,0,May-21
+Conservative Hybrid Fund,Open ended Schemes,Hybrid Schemes,22,400578,578.2,183.32,13830.81,13407.04,2,43.38,394.88,628.6731818,17.94909091,May-21
+Balanced Hybrid Fund/Aggressive Hybrid Fund,Open ended Schemes,Hybrid Schemes,34,4759028,1535.77,1970.99,129401.25,126413.71,2,9.33,-435.22,3805.919118,-12.80058824,May-21
+Dynamic Asset Allocation/Balanced Advantage Fund,Open ended Schemes,Hybrid Schemes,24,2904398,2925.73,1562.78,115974.53,114151.41,0,0,1362.95,4832.272083,56.78958333,May-21
+Multi Asset Allocation Fund,Open ended Schemes,Hybrid Schemes,10,724478,312.42,320.59,15543.82,16311.02,0,0,-8.17,1554.382,-0.817,May-21
+Arbitrage Fund,Open ended Schemes,Hybrid Schemes,27,520451,9231.9,4711.02,85918.93,91970.75,0,0,4520.88,3182.182593,167.44,May-21
+Equity Savings Fund,Open ended Schemes,Hybrid Schemes,23,291351,593.48,211.5,10436.09,10369.45,2,25.81,381.98,453.7430435,16.60782609,May-21
+Sub Total - III (i+ii+iii+iv+v+vi),,,140,9600284,15177.51,8960.21,371105.44,372623.38,6,78.52,6217.3,2650.753143,44.40928571,May-21
+Solution Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,May-21
+Retirement Fund,Open ended Schemes,Solution Oriented Schemes,25,2632086,148.22,114.12,14407.29,13973.07,0,0,34.1,576.2916,1.364,May-21
+Childrens Fund,Open ended Schemes,Solution Oriented Schemes,10,2882518,55.13,21.64,11458.58,11151.78,0,0,33.49,1145.858,3.349,May-21
+Sub Total - IV (i+ii),,,35,5514604,203.35,135.76,25865.87,25124.85,0,0,67.59,739.0248571,1.931142857,May-21
+Other Schemes,,,0,0,0,0,0,0,0,0,0,0,0,May-21
+Index Funds,Open ended Schemes,Other Schemes,47,1181906,2016.54,775.93,22904.76,21528.72,0,0,1240.61,487.3353191,26.39595745,May-21
+GOLD ETF,Open ended Schemes,Other Schemes,11,1668034,392.94,105.09,16624.54,16198.21,0,0,287.85,1511.321818,26.16818182,May-21
+Other ETFs,Open ended Schemes,Other Schemes,97,4876160,9185.64,3805.88,299664.67,286822.83,0,0,5379.76,3089.326495,55.4614433,May-21
+Fund of funds investing overseas,Open ended Schemes,Other Schemes,36,845580,2624.2,200.45,16143.2,14173.64,0,0,2423.75,448.4222222,67.32638889,May-21
+Sub Total - V (i+ii+iii+iv),,,191,8571680,14219.32,4887.34,355337.18,338723.39,0,0,9331.98,1860.404084,48.85853403,May-21
+Total A-Open ended Schemes,,,1027,99070493,592378.24,611190.43,3199815.59,3185763.89,26,802.49,-18812.19,3115.691908,-18.31761441,May-21
+Close Ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,May-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,May-21
+Fixed Term Plan,Close Ended Schemes,Income/Debt Oriented Schemes,453,329258,0,18802.18,80642.46,88678.41,0,0,-18802.18,178.0186755,-41.50591611,May-21
+Capital Protection Oriented Schemes,Close Ended Schemes,Income/Debt Oriented Schemes,16,35776,0,98.07,1786.71,1801.47,0,0,-98.07,111.669375,-6.129375,May-21
+Infrastructure Debt Fund,Close Ended Schemes,Income/Debt Oriented Schemes,8,80,0,0,1958.87,1953.51,0,0,0,244.85875,0,May-21
+Other Debt Scheme,Close Ended Schemes,Income/Debt Oriented Schemes,4,15662,0,40.9,603.19,611.81,0,0,-40.9,150.7975,-10.225,May-21
+Sub Total (i+ii+iii+iv),,,481,380776,0,18941.15,84991.22,93045.2,0,0,-18941.15,176.6969231,-39.37869023,May-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,May-21
+ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,25,420458,0,62.68,4827.03,4676.62,0,0,-62.68,193.0812,-2.5072,May-21
+Other Equity Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,43,561030,0,784.82,15876.1,15866.35,0,0,-784.82,369.2116279,-18.25162791,May-21
+Sub Total (i+ii),,,68,981488,0,847.5,20703.13,20542.96,0,0,-847.5,304.4577941,-12.46323529,May-21
+Other Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,0,0,0,0,0,0,0,0,0,0,0,May-21
+Total B -Close ended Schemes,,,549,1362264,0,19788.65,105694.35,113588.16,0,0,-19788.65,192.5215847,-36.04489982,May-21
+Interval Schemes,,,0,0,0,0,0,0,0,0,0,0,0,May-21
+Income/Debt Oriented Schemes,Interval Schemes,,21,3388,0.12,1.15,149.94,150.07,0,0,-1.03,7.14,-0.049047619,May-21
+Growth/Equity Oriented Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,May-21
+Other Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,May-21
+Total C Interval Schemes,,,21,3388,0.12,1.15,149.94,150.07,0,0,-1.03,7.14,-0.049047619,May-21
+Grand Total,,,1597,100436145,592378.36,630980.24,3305659.89,3299502.12,26,802.49,-38601.88,2069.918528,-24.17149656,May-21
+Fund of Funds Scheme (Domestic) **,,,57,1323512,3029.68,384.28,32541.99,31179.81,0,0,2645.4,570.9121053,46.41052632,May-21
+Open ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Apr-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Apr-21
+Overnight Fund,Open ended Schemes,Income/Debt Oriented Schemes,30,125483,236895.02,218402.94,89727.38,91267.45,0,0,18492.08,2990.912667,616.4026667,Apr-21
+Liquid Fund,Open ended Schemes,Income/Debt Oriented Schemes,39,2176989,252669.62,211162.15,379465.5,393985.42,0,0,41507.47,9729.884615,1064.294103,Apr-21
+Ultra Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,27,644885,24494.33,15575.81,96027.49,96197.6,0,0,8918.52,3556.573704,330.3155556,Apr-21
+Low Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,24,1174999,31210.41,21888.36,138670.63,133133.75,2,11.92,9322.05,5777.942917,388.41875,Apr-21
+Money Market Fund,Open ended Schemes,Income/Debt Oriented Schemes,18,489845,39475.79,19189.17,110401.4,104074.8,0,0,20286.62,6133.411111,1127.034444,Apr-21
+Short Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,26,640697,7197.07,5950.55,142607.64,141062.97,1,11.24,1246.52,5484.909231,47.94307692,Apr-21
+Medium Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,15,284745,1249.57,909.93,30529.33,30158.08,6,327.4,339.64,2035.288667,22.64266667,Apr-21
+Medium to Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,13,124084,329.13,229.84,10572.94,10427.2,1,15.55,99.29,813.3030769,7.637692308,Apr-21
+Long Duration Fund,Open ended Schemes,Income/Debt Oriented Schemes,2,29376,33.45,27.01,2602.37,2584.42,0,0,6.44,1301.185,3.22,Apr-21
+Dynamic Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,25,262088,377.76,2480.77,24195.02,24794.62,2,128.64,-2103.01,967.8008,-84.1204,Apr-21
+Corporate Bond Fund,Open ended Schemes,Income/Debt Oriented Schemes,21,720080,6175.69,8056.05,159433.22,159712.82,0,0,-1880.36,7592.058095,-89.54095238,Apr-21
+Credit Risk Fund,Open ended Schemes,Income/Debt Oriented Schemes,16,287615,326.91,484.27,25385.19,25351.3,8,228.32,-157.36,1586.574375,-9.835,Apr-21
+Banking and PSU Fund,Open ended Schemes,Income/Debt Oriented Schemes,22,382666,3457.39,3608.3,120217.63,119430.99,0,0,-150.91,5464.437727,-6.859545455,Apr-21
+Gilt Fund,Open ended Schemes,Income/Debt Oriented Schemes,21,210495,2301.24,654.13,18038.31,17827,0,0,1647.11,858.9671429,78.43380952,Apr-21
+Gilt Fund with 10 year constant duration,Open ended Schemes,Income/Debt Oriented Schemes,4,56276,30.41,52.7,1494.02,1498.54,0,0,-22.29,373.505,-5.5725,Apr-21
+Floater Fund,Open ended Schemes,Income/Debt Oriented Schemes,10,253438,8486.37,5134.69,69182.81,66863.89,0,0,3351.68,6918.281,335.168,Apr-21
+Sub Total - I (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi+xii+xiii+xiv+xv+xvi),,,313,7863761,614710.15,513806.67,1418550.89,1418370.85,20,723.07,100903.48,4532.11147,322.3753355,Apr-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Apr-21
+Multi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,10,1405277,347.55,505.25,19846.35,19738.07,0,0,-157.7,1984.635,-15.77,Apr-21
+Large Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,32,10663232,3614.58,3289.64,178102.38,177617.8,0,0,324.94,5565.699375,10.154375,Apr-21
+Large & Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,28,5087349,1795.53,1087.68,77948.66,76694.26,0,0,707.85,2783.880714,25.28035714,Apr-21
+Mid Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,27,6771333,2906.38,1948.22,118825.34,116825.19,0,0,958.16,4400.938519,35.48740741,Apr-21
+Small Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,24,5130378,1711.16,1527.19,72796.6,70777.4,0,0,183.97,3033.191667,7.665416667,Apr-21
+Dividend Yield Fund,Open ended Schemes,Growth/Equity Oriented Schemes,7,502342,69.39,72.39,6802.73,6752.16,0,0,-3,971.8185714,-0.428571429,Apr-21
+Value Fund/Contra Fund,Open ended Schemes,Growth/Equity Oriented Schemes,18,3740998,783,1456.77,61305.28,61008.82,0,0,-673.77,3405.848889,-37.43166667,Apr-21
+Focused Fund,Open ended Schemes,Growth/Equity Oriented Schemes,25,3971342,1943.02,1674.98,69437.98,68633.94,0,0,268.04,2777.5192,10.7216,Apr-21
+Sectoral/Thematic Funds,Open ended Schemes,Growth/Equity Oriented Schemes,107,8025092,4182.09,2476.94,101440.79,99622.52,0,0,1705.15,948.0447664,15.93598131,Apr-21
+ELSS,Open ended Schemes,Growth/Equity Oriented Schemes,42,12663169,1374.63,1511.37,125377.01,124789.67,0,0,-136.74,2985.166905,-3.255714286,Apr-21
+Flexi Cap Fund,Open ended Schemes,Growth/Equity Oriented Schemes,25,8444409,3349.77,3089.3,159479.51,158484.39,0,0,260.47,6379.1804,10.4188,Apr-21
+Sub Total - II (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi),,,345,66404921,22077.1,18639.73,991362.64,980944.22,0,0,3437.37,2873.514899,9.963391304,Apr-21
+Hybrid Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Apr-21
+Conservative Hybrid Fund,Open ended Schemes,Hybrid Schemes,21,383572,369.7,185.64,13179.69,13016.6,2,42.97,184.06,627.6042857,8.764761905,Apr-21
+Balanced Hybrid Fund/Aggressive Hybrid Fund,Open ended Schemes,Hybrid Schemes,34,4756872,1947.41,2449.1,123388.51,123024.24,2,9.33,-501.69,3629.073824,-14.75558824,Apr-21
+Dynamic Asset Allocation/Balanced Advantage Fund,Open ended Schemes,Hybrid Schemes,24,2874582,3196.67,1496.35,109394.19,109808.8,0,0,1700.32,4558.09125,70.84666667,Apr-21
+Multi Asset Allocation Fund,Open ended Schemes,Hybrid Schemes,10,720915,325.31,299.61,14710.69,15664.52,0,0,25.7,1471.069,2.57,Apr-21
+Arbitrage Fund,Open ended Schemes,Hybrid Schemes,27,512165,10907.56,3662.41,81386.95,85965.56,0,0,7245.15,3014.331481,268.3388889,Apr-21
+Equity Savings Fund,Open ended Schemes,Hybrid Schemes,23,289439,225.21,237.44,9771.39,10058.4,2,25.81,-12.23,424.8430435,-0.53173913,Apr-21
+Sub Total - III (i+ii+iii+iv+v+vi),,,139,9537545,16971.85,8330.53,351831.42,357538.13,6,78.11,8641.32,2531.161295,62.16776978,Apr-21
+Solution Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Apr-21
+Retirement Fund,Open ended Schemes,Solution Oriented Schemes,25,2629585,156.37,122.96,13686.19,13568.5,0,0,33.41,547.4476,1.3364,Apr-21
+Childrens Fund,Open ended Schemes,Solution Oriented Schemes,10,2882643,61.87,37.22,10903.3,10800.52,0,0,24.65,1090.33,2.465,Apr-21
+Sub Total - IV (i+ii),,,35,5512228,218.24,160.19,24589.49,24369.02,0,0,58.05,702.5568571,1.658571429,Apr-21
+Other Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Apr-21
+Index Funds,Open ended Schemes,Other Schemes,46,1092882,1969.61,802.06,20426.01,19714.39,0,0,1167.55,444.0436957,25.38152174,Apr-21
+GOLD ETF,Open ended Schemes,Other Schemes,11,1513531,686.08,5.93,15628.66,15192.17,0,0,680.15,1420.787273,61.83181818,Apr-21
+Other ETFs,Open ended Schemes,Other Schemes,93,4508088,7102.99,4566.3,277570.85,274939.03,0,0,2536.69,2984.632796,27.27623656,Apr-21
+Fund of funds investing overseas,Open ended Schemes,Other Schemes,35,729914,867.89,172.55,13989.15,13440.85,0,0,695.34,399.69,19.86685714,Apr-21
+Sub Total - V (i+ii+iii+iv),,,185,7844415,10626.58,5546.84,327614.66,323286.45,0,0,5079.74,1770.890054,27.45805405,Apr-21
+Total A-Open ended Schemes,,,1017,97162870,664603.92,546483.96,3113949.09,3104508.67,26,801.18,118119.96,3061.896844,116.1454867,Apr-21
+Close Ended Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Apr-21
+Income/Debt Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Apr-21
+Fixed Term Plan,Close Ended Schemes,Income/Debt Oriented Schemes,519,346196,93.97,22496.79,99124.19,112540.13,0,0,-22402.82,190.9907322,-43.16535645,Apr-21
+Capital Protection Oriented Schemes,Close Ended Schemes,Income/Debt Oriented Schemes,18,37904,0,740.84,1857.57,2095.87,0,0,-740.84,103.1983333,-41.15777778,Apr-21
+Infrastructure Debt Fund,Close Ended Schemes,Income/Debt Oriented Schemes,8,80,0,319,1944.23,1930,0,0,-319,243.02875,-39.875,Apr-21
+Other Debt Scheme,Close Ended Schemes,Income/Debt Oriented Schemes,5,16022,0,96.28,637.06,697.72,0,0,-96.28,127.412,-19.256,Apr-21
+Sub Total (i+ii+iii+iv),,,550,400202,93.97,23652.91,103563.05,117263.72,0,0,-23558.94,188.2964545,-42.83443636,Apr-21
+Growth/Equity Oriented Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Apr-21
+ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,25,424514,0,154.59,4571.41,4589.15,0,0,-154.59,182.8564,-6.1836,Apr-21
+Other Equity Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,47,577727,0.004,1499.66,15750.94,16025.04,0,0,-1499.656,335.126383,-31.90757447,Apr-21
+Sub Total (i+ii),,,72,1002241,0.004,1654.25,20322.35,20614.19,0,0,-1654.246,282.2548611,-22.97563889,Apr-21
+Other Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,0,0,0,0,0,0,0,0,0,0,0,Apr-21
+Total B -Close ended Schemes,,,622,1402443,93.97,25307.16,123885.4,137877.91,0,0,-25213.19,199.1726688,-40.53567524,Apr-21
+Interval Schemes,,,0,0,0,0,0,0,0,0,0,0,0,Apr-21
+Income/Debt Oriented Schemes,Interval Schemes,,21,3396,0.01,0.34,150.59,150.56,0,0,-0.33,7.170952381,-0.015714286,Apr-21
+Growth/Equity Oriented Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Apr-21
+Other Schemes,Interval Schemes,,0,0,0,0,0,0,0,0,0,0,0,Apr-21
+Total C Interval Schemes,,,21,3396,0.01,0.34,150.59,150.56,0,0,-0.33,7.170952381,-0.015714286,Apr-21
+Grand Total,,,1660,98568709,664697.9,571791.46,3237985.09,3242537.14,26,801.18,92906.44,1950.593428,55.96773494,Apr-21
+Fund of Funds Scheme (Domestic) **,,,55,1194449,1417.18,429.8,29064.41,28331.21,0,0,987.38,528.4438182,17.95236364,Apr-21
