@@ -27,7 +27,7 @@ def get_tables(path):
     return tables
 
 
-def add_data_to_dataframe(table, tbname):
+def add_data_to_dataframe(table, tbname, df):
     for row in range(2, len(table)):
         if table[row][1] is None or table[row][1].strip() == '-' or table[row][1].strip() == '':
             continue
@@ -77,27 +77,23 @@ def add_data_to_dataframe(table, tbname):
             'Net Inflow or Outflow per Scheme':  niops,
             'month and year': tbname
         }
-        global df
         df = df._append(row_data, ignore_index=True)
-    df.to_csv('mutualfunds.csv', index=False)
+    return df
 
 if __name__ == "__main__":
-    global df
-    df = pd.DataFrame(columns=column_headers)
-
     paths = ['dataset/MF Data - March 2022 - April 2021.pdf', 'dataset/MF Data - March 2023 - April 2022.pdf',
          'dataset/MF Data - March 2024 - April 2023.pdf']
-
+    df = pd.DataFrame(columns=column_headers)
     tables = get_tables(paths[0])
     for tbname in tables:
-        #print(tables[tbname], end="\n\n")
         table = tables[tbname]
-        add_data_to_dataframe(table, tbname)
+        df = add_data_to_dataframe(table, tbname, df)
+    df.to_csv('mutualfunds.csv', index=False)
 '''
     for path in paths:
         for tables in get_tables(path):
             for tbname in tables:
-                print(tables[tbname], end="\n\n")
+                #print(tables[tbname], end="\n\n")
                 table = tables[tbname]
                 add_data_to_dataframe(table, tbname)
     print(df)
