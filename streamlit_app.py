@@ -71,6 +71,28 @@ with tab1:
         filtered_df['month and year'] = pd.to_datetime(filtered_df['month and year'], errors='coerce')
         filtered_df = filtered_df.sort_values('month and year')
         filtered_df['month and year'] = filtered_df['month and year'].dt.strftime('%m-%Y')
+
+        # Add a new column named "slno" and number it in order
+        filtered_df.insert(0, 'slno', range(1, len(filtered_df) + 1))
+        # Calculate sum for numeric columns
+        numeric_columns = filtered_df.select_dtypes(include=[np.number]).columns
+        column_sums = filtered_df[numeric_columns].sum()
+
+        # Create a dictionary for the new row
+        new_row_data = {'slno': 'Total'}
+
+        # Iterate over columns
+        for col in filtered_df.columns:
+            if col == 'slno':
+                continue
+            elif col in numeric_columns:
+                new_row_data[col] = column_sums[col]  
+            else:
+                new_row_data[col] = ''
+
+        # Append the new row to the DataFrame
+        filtered_df = filtered_df._append(new_row_data, ignore_index=True)
+
     if all:
         if not filtered_df.empty and title:
             st.dataframe(filtered_df)
@@ -78,6 +100,7 @@ with tab1:
         fieldsselected = st.multiselect('Select the data fields to display other than month and year', stdata.allfields, key="af1")
         if fieldsselected and title:
             fieldsselected.append('month and year')
+            fieldsselected.insert(0, 'slno')
             st.dataframe(filtered_df[fieldsselected])
 
 with tab2:
@@ -128,7 +151,7 @@ with tab2:
     plt.plot(result['month and year'], result['{}'.format(foption)], color='#00CEFF', marker='o', linestyle='-')
     date_format = mdates.DateFormatter('%m-%Y')
     plt.gca().xaxis.set_major_formatter(date_format)
-    plt.title('{}'.format(title))
+    plt.title('{}'.format(title), color='#FFFFFF', fontweight='bold', fontsize=16)
     plt.xlabel('Month and Year', color='#00CEFF')
     plt.ylabel('{}'.format(foption), color='#00CEFF')
     plt.xticks(rotation=45)
