@@ -213,3 +213,5 @@ subtypesdict = {
     'Other Equity Schemes': 'Growth/Equity Oriented Schemes',
     'ELSS': 'Growth/Equity Oriented Schemes'
 }
+fields =["No. of Schemes", "No. of Folios", "Funds Mobilized (INR in crore)", "Repurchase/Redemption (INR in crore)", "Net Assets Under Management (INR in crore)", "Average Net Assets Under Management (INR in crore)", "No. of segregated portfolios created", "Net Assets Under Management in segregated portfolio (INR in crores)", "Net Inflow or Outflow", "Net Asset under Management per Scheme", "Net Inflow or Outflow per Scheme"]
+
