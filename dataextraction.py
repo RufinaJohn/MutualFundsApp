@@ -90,17 +90,11 @@ if __name__ == "__main__":
     paths = ['dataset/MF Data - March 2022 - April 2021.pdf', 'dataset/MF Data - March 2023 - April 2022.pdf',
          'dataset/MF Data - March 2024 - April 2023.pdf']
     df = pd.DataFrame(columns=column_headers)
-    tables = get_tables(paths[0])
-    for tbname in tables:
-        table = tables[tbname]
-        df = add_data_to_dataframe(table, tbname, df)
-    df.to_csv('mutualfunds.csv', index=False)
-'''
     for path in paths:
-        for tables in get_tables(path):
-            for tbname in tables:
-                #print(tables[tbname], end="\n\n")
-                table = tables[tbname]
-                add_data_to_dataframe(table, tbname)
-    print(df)
-'''
+        tables = get_tables(path)
+        for tbname in tables:
+            table = tables[tbname]
+            df = add_data_to_dataframe(table, tbname, df)
+        df = df._append(df, ignore_index=True)
+    df.to_csv('mutualfunds.csv', index=False)
+
