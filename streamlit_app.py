@@ -13,31 +13,63 @@ df = pd.read_csv('mutualfunds.csv')
 
 tab1, tab2, tab3 = st.tabs(['Generate report', 'Visualize data', 'Upload reports'])
 with tab1:
-    monthselected = st.multiselect('Select the month', df['month and year'].unique())
-    typeselected = st.multiselect('Select the scheme type', stdata.types)
-    subtypeselected = st.multiselect('Select the scheme subtype', stdata.subtypes)
-    namesselected = st.multiselect('Select the scheme name', stdata.names)
-    result = st.button('Generate Report')
-    if result:
-        res = df[
-            (df['month and year'].isin(monthselected)) &
-            ((df['Scheme Type'].isin(typeselected)) |
-            (df['Scheme Subtype'].isin(subtypeselected)) |
-            (df['Scheme Name'].isin(namesselected)))
-        ]
-        res.columns = dataex.column_headers
-        st.dataframe(res)
-
-with tab2:
-    option = st.radio('Get data based on ', ['Scheme name', 'Scheme type', 'Scheme subtype'])
+    option = st.radio('Get data based on ', ['Scheme name', 'Scheme type', 'Scheme subtype'], key='tb1')
     if option == 'Scheme name':
-        title = nameselected = st.selectbox('Select the scheme name', stdata.names, key='sn')
+        title = namesselected = st.multiselect('Select the scheme names', stdata.names, key='sn1')
+        filtered_df = df[df['Scheme Name'].isin(namesselected)]
+    elif option == 'Scheme type':
+        title = typesselected = st.multiselect('Select the scheme types', stdata.types, key='st1')
+        filtered_df = df[df['Scheme Type'].isin(typesselected)]
+    elif option == 'Scheme subtype':
+        title = subtypesselected = st.multiselect('Select the scheme subtypes', subtypes, key='sst1')
+        filtered_df = pd.DataFrame()
+        for subtypeselected in subtypesselected:
+            if (subtypeselected == 'Income/Debt Oriented Schemes (Open ended)'):
+                fdf = df[(df['Scheme Subtype'] == 'Income/Debt Oriented Schemes') & (df['Scheme Type'] == 'Open ended Schemes')]
+                filtered_df = filtered_df._append(fdf, ignore_index=True)
+            elif subtypeselected == 'Growth/Equity Oriented Schemes (Open ended)':
+                fdf = df[(df['Scheme Subtype'] == 'Growth/Equity Oriented Schemes') & (df['Scheme Type'] == 'Open ended Schemes')]
+                filtered_df = filtered_df._append(fdf, ignore_index=True)
+            elif subtypeselected == 'Hybrid Schemes (Open ended)':
+                fdf = df[(df['Scheme Subtype'] == 'Hybrid Schemes') & (df['Scheme Type'] == 'Open ended Schemes')]
+                filtered_df = filtered_df._append(fdf, ignore_index=True)
+            elif subtypeselected == 'Solution Oriented Schemes (Open ended)':
+                fdf = df[(df['Scheme Subtype'] == 'Solution Oriented Schemes') & (df['Scheme Type'] == 'Open ended Schemes')]
+                filtered_df = filtered_df._append(fdf, ignore_index=True)
+            elif subtypeselected == 'Other Schemes (Open ended)':
+                fdf = df[(df['Scheme Subtype'] == 'Other Schemes') & (df['Scheme Type'] == 'Open ended Schemes')]
+                filtered_df = filtered_df._append(fdf, ignore_index=True)
+            elif subtypeselected == 'Income/Debt Oriented Schemes (Close ended)':
+                fdf = df[(df['Scheme Subtype'] == 'Income/Debt Oriented Schemes') & (df['Scheme Type'] == 'Close Ended Schemes')]
+                filtered_df = filtered_df._append(fdf, ignore_index=True)
+            elif subtypeselected == 'Growth/Equity Oriented Schemes (Close ended)':
+                fdf = df[(df['Scheme Subtype'] == 'Growth/Equity Oriented Schemes') & (df['Scheme Type'] == 'Close Ended Schemes')]
+                filtered_df = filtered_df._append(fdf, ignore_index=True)
+            elif subtypeselected == 'Other Schemes (Close ended)':
+                fdf = df[(df['Scheme Subtype'] == 'Other Schemes') & (df['Scheme Type'] == 'Close Ended Schemes')]
+                filtered_df = filtered_df._append(fdf, ignore_index=True)
+            elif subtypeselected == 'Income/Debt Oriented Schemes (Interval)':
+                fdf = df[(df['Scheme Subtype'] == 'Income/Debt Oriented Schemes') & (df['Scheme Type'] == 'Interval Schemes')]
+                filtered_df = filtered_df._append(fdf, ignore_index=True)
+            elif subtypeselected == 'Growth/Equity Oriented Schemes (Interval)':
+                fdf = df[(df['Scheme Subtype'] == 'Growth/Equity Oriented Schemes') & (df['Scheme Type'] == 'Interval Schemes')]
+                filtered_df = filtered_df._append(fdf, ignore_index=True)
+            elif subtypeselected == 'Other Schemes (Interval)':
+                fdf = df[(df['Scheme Subtype'] == 'Other Schemes') & (df['Scheme Type'] == 'Interval Schemes')]
+                filtered_df = filtered_df._append(fdf, ignore_index=True)
+
+    if not filtered_df.empty:
+        st.dataframe(filtered_df)
+with tab2:
+    option = st.radio('Get data based on ', ['Scheme name', 'Scheme type', 'Scheme subtype'], key='tb2')
+    if option == 'Scheme name':
+        title = nameselected = st.selectbox('Select the scheme name', stdata.names, key='sn2')
         filtered_df = df[df['Scheme Name'] == nameselected]
     elif option == 'Scheme type':
-        title = typeselected = st.selectbox('Select the scheme type', stdata.types, key='st')
+        title = typeselected = st.selectbox('Select the scheme type', stdata.types, key='st2')
         filtered_df = df[df['Scheme Type'] == typeselected]
     elif option == 'Scheme subtype':
-        title = subtypeselected = st.selectbox('Select the scheme subtype', subtypes, key='sst')
+        title = subtypeselected = st.selectbox('Select the scheme subtype', subtypes, key='sst2')
         if(subtypeselected=='Income/Debt Oriented Schemes (Open ended)'):
             filtered_df = df[(df['Scheme Subtype'] == 'Income/Debt Oriented Schemes') & (df['Scheme Type'] == 'Open ended Schemes')]
         elif subtypeselected == 'Growth/Equity Oriented Schemes (Open ended)':
@@ -69,7 +101,6 @@ with tab2:
 
     foption = st.selectbox('Select data field ', stdata.fields)
     result = filtered_df[['{}'.format(foption), 'month and year']]
-    print(result)
     result['month and year'] = pd.to_datetime(result['month and year'], errors='coerce')
     result = result.sort_values('month and year')
     result = result.groupby('month and year')['{}'.format(foption)].sum().reset_index()
