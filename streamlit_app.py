@@ -69,10 +69,12 @@ with tab2:
 
     foption = st.selectbox('Select data field ', stdata.fields)
     result = filtered_df[['{}'.format(foption), 'month and year']]
-    result['month and year'] = pd.to_datetime(df['month and year'])
+    print(result)
+    result['month and year'] = pd.to_datetime(result['month and year'], errors='coerce')
     result = result.sort_values('month and year')
     result = result.groupby('month and year')['{}'.format(foption)].sum().reset_index()
     st.dataframe(result)
+
     # Plot the line graph
     plt.figure(figsize=(15,5))
     plt.ticklabel_format(style='plain')

@@ -41,9 +41,15 @@ def add_data_to_dataframe(table, tbname, df):
             type = stdata.types[2]
         else:
             type = ''
-        if row==72:
-            subtype = 'Growth/Equity Oriented Schemes'
+        if row == 72:
+            subtype = 'Other Schemes'
             type = 'Close Ended Schemes'
+        elif row == 77:
+            subtype = 'Income/Debt Oriented Schemes'
+        elif row == 79:
+            subtype = 'Growth/Equity Oriented Schemes'
+        elif row == 81:
+            subtype = 'Other Schemes'
         elif name in stdata.subtypesdict.keys():
             subtype = stdata.subtypesdict[name]
         else:

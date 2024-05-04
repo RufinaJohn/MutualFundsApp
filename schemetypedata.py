@@ -89,6 +89,7 @@ names = [
     'Gilt Fund',
     'Gilt Fund with 10 year constant duration',
     'Floater Fund',
+
     'Multi Cap Fund',
     'Large Cap Fund',
     'Large & Mid Cap Fund',
@@ -98,24 +99,33 @@ names = [
     'Value Fund/Contra Fund',
     'Focused Fund',
     'Sectoral/Thematic Funds',
-    'ELSS',
+    'ELSS', #open ended
     'Flexi Cap Fund',
+
     'Conservative Hybrid Fund',
     'Balanced Hybrid Fund/Aggressive Hybrid Fund',
     'Dynamic Asset Allocation/Balanced Advantage Fund',
     'Multi Asset Allocation Fund',
     'Arbitrage Fund',
     'Equity Savings Fund',
+
     'Retirement Fund',
     'Childrens Fund',
+
     'Index Funds',
     'GOLD ETF',
     'Other ETFs',
     'Fund of funds investing overseas',
+
     'Fixed Term Plan',
     'Capital Protection Oriented Schemes',
     'Infrastructure Debt Fund',
-    'Other Debt Scheme'
+    'Other Debt Scheme',
+
+    'ELSS', #close ended
+    'Other Equity Schemes',
+
+    'Fund of Funds Scheme (Domestic) **'
 ]
 
 typesdict = {
