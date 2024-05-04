@@ -9,7 +9,7 @@ import schemetypedata as stdata
 
 subtypes = ['Income/Debt Oriented Schemes (Open ended)', 'Growth/Equity Oriented Schemes (Open ended)', 'Hybrid Schemes (Open ended)','Solution Oriented Schemes (Open ended)','Other Schemes (Open ended)', 'Income/Debt Oriented Schemes (Close ended)', 'Growth/Equity Oriented Schemes (Close ended)','Other Schemes (Close ended)', 'Growth/Equity Oriented Schemes (Open ended)', 'Hybrid Schemes (Open ended)','Solution Oriented Schemes (Open ended)','Other Schemes (Open ended)', 'Income/Debt Oriented Schemes (Interval)', 'Growth/Equity Oriented Schemes (Interval)','Other Schemes (Interval)']
 st.set_option('deprecation.showPyplotGlobalUse', False)
-
+st.set_page_config(layout="wide")
 st.title("RAGathon Challenge: Mutual Fund Performance Insights Application")
 df = pd.read_csv('mutualfunds.csv')
 
