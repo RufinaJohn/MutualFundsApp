@@ -187,6 +187,7 @@ with tab3:
     submit = st.button("Update data")
     # get the names of all available reports
     oldreports = [file for file in os.listdir('reports') if file.endswith('.pdf')]
+    reports = [file for file in os.listdir('dataset') if file.endswith('.pdf')]
     if submit:
         if len(pdfs) != 0:
             with st.spinner(text='Extracting data...'):
@@ -195,6 +196,10 @@ with tab3:
                 for pdf in pdfs:
                     if pdf.name in oldreports:
                         st.write('You have already uploaded the report - {}'.format(pdf.name))
+                        bar.progress(p + int(100 / len(pdfs)))
+                        continue
+                    if pdf.name in reports:
+                        st.write('This report is already available in the original dataset - {}'.format(pdf.name))
                         bar.progress(p + int(100 / len(pdfs)))
                         continue
                     else:
@@ -220,7 +225,7 @@ with tab4:
     # get the names of all available reports
     pdf_files = [file for file in os.listdir('reports') if file.endswith('.pdf')]
     if pdf_files:
-        st.markdown("#### Download available Report PDFs")
+        st.markdown("#### Download uploaded Report PDFs")
         # for each pdf available create a download button to download it
         for pdf_file in pdf_files:
             download_path = os.path.join('reports', pdf_file)
@@ -228,22 +233,40 @@ with tab4:
                 label="{}".format(pdf_file),
                 data=open(download_path, "rb").read(),
                 file_name=pdf_file,
-                mime="application/pdf"
+                mime="application/pdf",
+                key="d1{}".format(pdf_file)
             )
         # Button to delete all report PDFs
-        delete = st.button('Delete all reports')
+        delete = st.button('Delete all uploaded reports. (This does not delete the original 3 reports)', key='db')
         if delete:
             # Iterate through each PDF file and delete it
             for pdf_file in pdf_files:
                 pdf_path = os.path.join('reports', pdf_file)
                 os.remove(pdf_path)
+            st.rerun()
+
+    dataset = [file for file in os.listdir('dataset') if file.endswith('.pdf')]
+    if dataset:
+        st.markdown("#### Download original RAGathon dataset Report PDFs")
+        # for each pdf available create a download button to download it
+        for pdf in dataset:
+            download_path = os.path.join('dataset', pdf)
+            st.download_button(
+                label="{}".format(pdf),
+                data=open(download_path, "rb").read(),
+                file_name=pdf,
+                mime="application/pdf",
+                key="d2{}".format(pdf)
+            )
 
 # Entire dataset
 with tab5:
+    st.write('Click this button to view the dataframe created by extracting data from the given 3 reports + additional uploaded reports')
     view = st.button('View dataset')
     if view:
         st.dataframe(df)
-    clear = st.button('Clear dataset')
+    st.write('Click this button to delete extracted data from additionaly uploaded reports. (The data from given 3 reports are not deleted)')
+    clear = st.button('Clear new data')
     if clear:
-        df = df.iloc[:0]
+        df = df.iloc[:2484]
         df.to_csv('mutualfunds.csv', index=False)

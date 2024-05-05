@@ -1237,7 +1237,7 @@ Other Debt Scheme,Close Ended Schemes,Income/Debt Oriented Schemes,0,0,0.0,0.0,0
 Sub Total (i+ii+iii+iv),,,100,113053,597.8,545.49,17962.26,17914.29,0,0.0,52.309999999999945,179.62259999999998,0.5230999999999995,October 2022
 ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,19,304578,0.0,20.3,3724.85,3642.84,0,0.0,-20.3,196.04473684210527,-1.068421052631579,October 2022
 Other Equity Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,12,68272,0.0,116.66,3281.31,3280.9,0,0.0,-116.66,273.4425,-9.721666666666666,October 2022
-Sub Total (i+ii),,,31,372850,0.0,136.96,7006.16,6923.74,0,0.0,-136.96,226.00516129032252,-4.418064516129032,October 2022
+Sub Total (i+ii),,,31,372850,0.0,136.96,7006.16,6923.74,0,0.0,-136.96,226.0051612903225,-4.418064516129032,October 2022
 Other Schemes,Close Ended Schemes,Other Schemes,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,October 2022
 Total B -Close ended Schemes,,,131,485903,597.8,682.45,24968.42,24838.03,0,0.0,-84.65000000000009,190.59862595419847,-0.646183206106871,October 2022
 Interval Schemes,,,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,October 2022
@@ -1375,7 +1375,7 @@ Capital Protection Oriented Schemes,Close Ended Schemes,Income/Debt Oriented Sch
 Infrastructure Debt Fund,Close Ended Schemes,Income/Debt Oriented Schemes,8,80,0.0,0.0,2056.5,2052.95,0,0.0,0.0,257.0625,0.0,August 2022
 Other Debt Scheme,Close Ended Schemes,Income/Debt Oriented Schemes,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,August 2022
 Sub Total (i+ii+iii+iv),,,109,121742,2292.9,814.97,18953.3,17417.36,0,0.0,1477.93,173.8834862385321,13.558990825688074,August 2022
-ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,19,306845,0.0,40.51,3693.68,3665.13,0,0.0,-40.51,194.40421052631572,-2.1321052631578947,August 2022
+ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,19,306845,0.0,40.51,3693.68,3665.13,0,0.0,-40.51,194.4042105263157,-2.1321052631578947,August 2022
 Other Equity Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,13,73765,0.0,136.83,3358.13,3431.76,0,0.0,-136.83,258.3176923076923,-10.525384615384615,August 2022
 Sub Total (i+ii),,,32,380610,0.0,177.34,7051.81,7096.89,0,0.0,-177.34,220.3690625,-5.541875,August 2022
 Other Schemes,Close Ended Schemes,Other Schemes,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,August 2022
@@ -2142,7 +2142,7 @@ Total A-Open ended Schemes,,,1327,156484087,888380.17,952262.78,4629969.73,47505
 Close Ended Schemes,,,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,September 2023
 Fixed Term Plan,Close Ended Schemes,Income/Debt Oriented Schemes,84,97531,0.0,1371.12,16723.47,17168.29,0,0.0,-1371.12,199.0889285714286,-16.322857142857142,September 2023
 Capital Protection Oriented Schemes,Close Ended Schemes,Income/Debt Oriented Schemes,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,September 2023
-Infrastructure Debt Fund,Close Ended Schemes,Income/Debt Oriented Schemes,7,52,0.0,639.14,1568.78,1563.43,0,0.0,-639.14,224.11142857142852,-91.30571428571427,September 2023
+Infrastructure Debt Fund,Close Ended Schemes,Income/Debt Oriented Schemes,7,52,0.0,639.14,1568.78,1563.43,0,0.0,-639.14,224.1114285714285,-91.30571428571427,September 2023
 Other Debt Scheme,Close Ended Schemes,Income/Debt Oriented Schemes,1,222870,20.63,53.29,5286.82,5319.69,0,0.0,-32.66,5286.82,-32.66,September 2023
 Sub Total (i+ii+iii+iv),,,92,320453,20.63,2063.55,23579.07,24051.41,0,0.0,-2042.92,256.2942391304348,-22.205652173913045,September 2023
 ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,19,287282,0.0,27.71,3815.24,3849.42,0,0.0,-27.71,200.80210526315787,-1.458421052631579,September 2023
@@ -2384,7 +2384,7 @@ Credit Risk Fund,Open ended Schemes,Income/Debt Oriented Schemes,15,241153,81.15
 Banking and PSU Fund,Open ended Schemes,Income/Debt Oriented Schemes,23,292621,1188.59,1065.71,81846.45,81394.9,0,0.0,122.87999999999988,3558.541304347826,5.342608695652169,May 2023
 Gilt Fund,Open ended Schemes,Income/Debt Oriented Schemes,22,179210,451.63,579.19,22282.83,22295.49,0,0.0,-127.56000000000006,1012.8559090909092,-5.7981818181818205,May 2023
 Gilt Fund with 10 year constant duration,Open ended Schemes,Income/Debt Oriented Schemes,5,42253,92.2,289.45,4246.44,4317.15,0,0.0,-197.25,849.2879999999999,-39.45,May 2023
-Floater Fund,Open ended Schemes,Income/Debt Oriented Schemes,13,233630,1422.65,3801.06,55375.04,57063.77,0,0.0,-2378.41,4259.618461538462,-182.95461538461532,May 2023
+Floater Fund,Open ended Schemes,Income/Debt Oriented Schemes,13,233630,1422.65,3801.06,55375.04,57063.77,0,0.0,-2378.41,4259.618461538462,-182.95461538461527,May 2023
 "Sub Total - I
 (i+ii+iii+iv+v+vi+vii+viii+ix+x+xi+xii+xiii+xiv+xv+xvi)",,,316,7192537,794876.51,748917.48,1349161.25,1362139.08,7,0.0,45959.03000000003,4269.497626582279,145.43996835443048,May 2023
 Growth/Equity Oriented Schemes,,,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,May 2023
@@ -2425,7 +2425,7 @@ Capital Protection Oriented Schemes,Close Ended Schemes,Income/Debt Oriented Sch
 Infrastructure Debt Fund,Close Ended Schemes,Income/Debt Oriented Schemes,7,52,0.0,0.0,2042.16,2025.34,0,0.0,0.0,291.7371428571429,0.0,May 2023
 Other Debt Scheme,Close Ended Schemes,Income/Debt Oriented Schemes,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,May 2023
 Sub Total (i+ii+iii+iv),,,114,153222,102.64,1954.81,24628.09,25825.09,0,0.0,-1852.17,216.03587719298247,-16.247105263157895,May 2023
-ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,19,294088,0.0,33.77,3597.13,3537.42,0,0.0,-33.77,189.32263157894732,-1.7773684210526317,May 2023
+ELSS,Close Ended Schemes,Growth/Equity Oriented Schemes,19,294088,0.0,33.77,3597.13,3537.42,0,0.0,-33.77,189.32263157894727,-1.7773684210526317,May 2023
 Other Equity Schemes,Close Ended Schemes,Growth/Equity Oriented Schemes,7,21509,0.0,300.14,826.54,907.07,0,0.0,-300.14,118.07714285714285,-42.87714285714286,May 2023
 Sub Total (i+ii),,,26,315597,0.0,333.91,4423.67,4444.49,0,0.0,-333.91,170.14115384615386,-12.842692307692309,May 2023
 Other Schemes,Close Ended Schemes,Other Schemes,0,0,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0,May 2023
