@@ -4,19 +4,33 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 import os
+
+# has functions required to extract data from uploaded report pdfs
 import dataextraction as dataex
+
+# has data related to schemes
 import schemetypedata as stdata
 
-subtypes = ['Income/Debt Oriented Schemes (Open ended)', 'Growth/Equity Oriented Schemes (Open ended)', 'Hybrid Schemes (Open ended)','Solution Oriented Schemes (Open ended)','Other Schemes (Open ended)', 'Income/Debt Oriented Schemes (Close ended)', 'Growth/Equity Oriented Schemes (Close ended)','Other Schemes (Close ended)', 'Growth/Equity Oriented Schemes (Open ended)', 'Hybrid Schemes (Open ended)','Solution Oriented Schemes (Open ended)','Other Schemes (Open ended)', 'Income/Debt Oriented Schemes (Interval)', 'Growth/Equity Oriented Schemes (Interval)','Other Schemes (Interval)']
+subtypes = ['Income/Debt Oriented Schemes (Open ended)', 'Growth/Equity Oriented Schemes (Open ended)', 'Hybrid Schemes (Open ended)', 'Solution Oriented Schemes (Open ended)', 'Other Schemes (Open ended)', 'Income/Debt Oriented Schemes (Close ended)', 'Growth/Equity Oriented Schemes (Close ended)', 'Other Schemes (Close ended)', 'Growth/Equity Oriented Schemes (Open ended)', 'Hybrid Schemes (Open ended)', 'Solution Oriented Schemes (Open ended)', 'Other Schemes (Open ended)', 'Income/Debt Oriented Schemes (Interval)', 'Growth/Equity Oriented Schemes (Interval)', 'Other Schemes (Interval)']
+
+# configurations
 st.set_option('deprecation.showPyplotGlobalUse', False)
 st.set_page_config(layout="wide")
+
 st.title("RAGathon Challenge: Mutual Fund Performance Insights Application")
+
+# read the dataframe
 df = pd.read_csv('mutualfunds.csv')
 
-tab1, tab2, tab3, tab4 = st.tabs(['Generate report', 'Visualize data', 'Upload reports', 'Report PDFs'])
+# create tabs for each functionality
+tab1, tab2, tab3, tab4, tab5 = st.tabs(['Generate report', 'Visualize data', 'Upload reports', 'Report PDFs', 'Dataset'])
+
+# Generate report tab
 with tab1:
     st.markdown('#### Generate report in csv format')
     option = st.radio('Get data based on ', ['Scheme name', 'Scheme type', 'Scheme subtype'], key='tb1')
+
+    # from the selected options to retrieve data, filter the dataframe
     if option == 'Scheme name':
         title = namesselected = st.multiselect('Select the scheme names', stdata.names, key='sn1')
         filtered_df = df[df['Scheme Name'].isin(namesselected)]
@@ -67,7 +81,7 @@ with tab1:
             numerical_columns = filtered_df.select_dtypes(include=[np.number]).columns.tolist()
             filtered_df = filtered_df.groupby('month and year')[numerical_columns].sum().reset_index()
 
-    all = st.checkbox('Display all the fields', value=True)
+    # if the filtered df is not empty, create sl no and add a row to calculate total at the end
     if not filtered_df.empty:
         filtered_df['month and year'] = pd.to_datetime(filtered_df['month and year'], errors='coerce')
         filtered_df = filtered_df.sort_values('month and year')
@@ -75,6 +89,7 @@ with tab1:
 
         # Add a new column named "slno" and number it in order
         filtered_df.insert(0, 'slno', range(1, len(filtered_df) + 1))
+
         # Calculate sum for numeric columns
         numeric_columns = filtered_df.select_dtypes(include=[np.number]).columns
         column_sums = filtered_df[numeric_columns].sum()
@@ -94,6 +109,8 @@ with tab1:
         # Append the new row to the DataFrame
         filtered_df = filtered_df._append(new_row_data, ignore_index=True)
 
+    all = st.checkbox('Display all the fields', value=True)
+
     if all:
         if not filtered_df.empty and title:
             st.dataframe(filtered_df)
@@ -104,6 +121,7 @@ with tab1:
             fieldsselected.insert(0, 'slno')
             st.dataframe(filtered_df[fieldsselected])
 
+# Visualize data tab
 with tab2:
     st.markdown('#### Plot the the graph of data fields vs month and year')
     option = st.radio('Get data based on ', ['Scheme name', 'Scheme type', 'Scheme subtype'], key='tb2')
@@ -144,7 +162,7 @@ with tab2:
         result['month and year'] = pd.to_datetime(result['month and year'], errors='coerce')
         result = result.sort_values('month and year')
         result = result.groupby('month and year')['{}'.format(foption)].sum().reset_index()
-        #st.dataframe(result)
+        # testing st.dataframe(result)
 
         # Plot the line graph
         plt.style.use('dark_background')
@@ -161,21 +179,25 @@ with tab2:
         plt.tight_layout()
         st.pyplot()
 
+# Upload reports tab
 with tab3:
     st.markdown('#### Report PDF Upload')
+    # create file uploader
     pdfs = st.file_uploader("Upload a PDF file", type=["pdf"], accept_multiple_files=True, help="Select one or more reports in the standard pdf format to update the existing data...")
     submit = st.button("Update data")
+    # get the names of all available reports
     oldreports = [file for file in os.listdir('reports') if file.endswith('.pdf')]
     if submit:
         if len(pdfs) != 0:
             with st.spinner(text='Extracting data...'):
+                bar = st.progress(0)
+                p = 0
                 for pdf in pdfs:
                     if pdf.name in oldreports:
                         st.write('You have already uploaded the report - {}'.format(pdf.name))
+                        bar.progress(p + int(100 / len(pdfs)))
                         continue
                     else:
-                        bar = st.progress(0)
-                        p = 0
                         pdf_bytes = pdf.read()
                         pdf_path = "reports/{}".format(pdf.name)
                         with open(pdf_path, "wb") as f:
@@ -188,14 +210,18 @@ with tab3:
                         df = df._append(newdf, ignore_index=True)
                         df.drop_duplicates(inplace=True)
                         bar.progress(p+int(100/len(pdfs)))
-                    bar.progress(100)
-                    df.to_csv('mutualfunds.csv', index=False)
-                    st.success('Done')
-                    st.rerun()
+                bar.progress(100)
+                df.to_csv('mutualfunds.csv', index=False)
+                st.success('Done')
+                st.rerun()
+
+# Report PDFs tab
 with tab4:
+    # get the names of all available reports
     pdf_files = [file for file in os.listdir('reports') if file.endswith('.pdf')]
     if pdf_files:
         st.markdown("#### Download available Report PDFs")
+        # for each pdf available create a download button to download it
         for pdf_file in pdf_files:
             download_path = os.path.join('reports', pdf_file)
             st.download_button(
@@ -204,3 +230,20 @@ with tab4:
                 file_name=pdf_file,
                 mime="application/pdf"
             )
+        # Button to delete all report PDFs
+        delete = st.button('Delete all reports')
+        if delete:
+            # Iterate through each PDF file and delete it
+            for pdf_file in pdf_files:
+                pdf_path = os.path.join('reports', pdf_file)
+                os.remove(pdf_path)
+
+# Entire dataset
+with tab5:
+    view = st.button('View dataset')
+    if view:
+        st.dataframe(df)
+    clear = st.button('Clear dataset')
+    if clear:
+        df = df.iloc[:0]
+        df.to_csv('mutualfunds.csv', index=False)
