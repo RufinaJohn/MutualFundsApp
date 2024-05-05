@@ -95,6 +95,6 @@ if __name__ == "__main__":
         for tbname in tables:
             table = tables[tbname]
             df = add_data_to_dataframe(table, tbname, df)
-        df = df._append(df, ignore_index=True)
+        #df = df._append(df, ignore_index=True)
     df.to_csv('mutualfunds.csv', index=False)
 
